@@ -103,7 +103,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# b33a5b215ea959c2d7118d4feb6520ed
+# 3d3a82123eb0e2913fbbd9002fabaf2c
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -612,6 +612,81 @@ data/verbs2/d49c9b66f60fcd18b35d7c0e5e97bc12.mp3
 data/verbs2/c5032ff770b776c513513949401b7b2f.mp3
 # 1a0b4f372477ff969cc09569cf83bb48
 
+data/clothing3/5e8dacb854bd1fe2183032de.png
+# 33aad834d78b422708a18d40a01486cf
+
+data/clothing3/5e92e8c18ef7c7826650adae.png
+# 0d7e3b00fa036c3038127e6da210bf7b
+
+data/clothing3/5e8dacb854bd1fe2183032db.png
+# cade81eec45406d5d241c476c1350832
+
+data/clothing3/5e8dacb854bd1fe2183032de.mp3
+# 426508235775c43d6df1b97a89b3fd51
+
+data/clothing3/5e8dacb854bd1fe2183032d8.mp3
+# 831441ef52ac52d066afde6ccce3ccb6
+
+data/clothing3/5e8dacb854bd1fe2183032dd.png
+# 00faa252899922deb10b9eccb0cbefee
+
+data/clothing3/5e8dacb854bd1fe2183032dd.mp3
+# 22e1dd6a1032569011398035d10ecdba
+
+data/clothing3/5e92e8bf8ef7c7826650adab.png
+# e752210cc798b02a089179838105834d
+
+data/clothing3/5e92e8c08ef7c7826650adac.mp3
+# 89dd12613ca6441f0dde77bcda41bcda
+
+data/clothing3/index.json
+# 7a16c13d75b9d3c2501933585c2355cb
+
+data/clothing3/5e8dacb854bd1fe2183032d8.png
+# 0051d602f4069f5b8a31cd6785586026
+
+data/clothing3/5e92e8c08ef7c7826650adad.png
+# d9b3adce028458dca983cabbd1e480e5
+
+data/clothing3/5e92e8c08ef7c7826650adad.mp3
+# b9a346f745ddefdd36785171f721a8ec
+
+data/clothing3/5e8dacb854bd1fe2183032e0.png
+# 5e2f7e452626325414c75122d57a2051
+
+data/clothing3/5e8dacb854bd1fe2183032db.mp3
+# 8e260423cdb36a546cb0fbcf5c7718fe
+
+data/clothing3/5e8dacb854bd1fe2183032e0.mp3
+# 986c6266aacca93612e0074d2e54bf56
+
+data/clothing3/5e8dacb854bd1fe2183032d9.mp3
+# a5f37bd831c5844f5c61edeb241675dc
+
+data/clothing3/5e92e8bf8ef7c7826650adab.mp3
+# 4acd00661add93203ca940e1612a66f6
+
+data/clothing3/5e8dacb854bd1fe2183032da.mp3
+# 110889ef0343f40ecebc8cb72b974bad
+
+data/clothing3/5e92e8c08ef7c7826650adac.png
+# db23beec38e782cc67c90e4c7f444414
+
+data/clothing3/5e8dacb854bd1fe2183032d9.png
+# 555c5ffccd92fbc2cab3453a83fb6d9f
+
+data/clothing3/5e92e8bf8ef7c7826650adaa.mp3
+# 3143f1ab1266df5b1974cebc3a9c375a
+
+data/clothing3/5e8dacb854bd1fe2183032da.png
+# 9363d36e8989d6f2c7314d8a8b942cf5
+
+data/clothing3/5e92e8c18ef7c7826650adae.mp3
+# cf36c5c1ee25408b5722ea339d27f2d2
+
+data/clothing3/5e92e8bf8ef7c7826650adaa.png
+# 75bbca5790bc35da4589ab5d3f127031
+
 data/fruits4a/5e8bf93ef6082885ff046aac.mp3
 # 732b7480da57067bd6ccd0845da66b23
 
@@ -933,6 +1008,81 @@ data/travel/ship.png
 data/travel/fe69db6219b137af5a25146101ff9415.mp3
 # 56d1e762718ef875b8da4a477e7960d3
 
+data/clothing2/5e8dacb854bd1fe2183032d5.png
+# 7c6ef75d9ed727e6a0bd182fb41981a7
+
+data/clothing2/5e92e8bd8ef7c7826650ada8.png
+# e935bb15b7fa0f04d28b0c1ddd371038
+
+data/clothing2/5e8dacb854bd1fe2183032d3.mp3
+# ce799d4f8a4e4dd515ec21694aac89dd
+
+data/clothing2/5e8dacb854bd1fe2183032e1.mp3
+# 5a7fbc7bfec03a68992bdc4dee9ddc63
+
+data/clothing2/5e8dacb854bd1fe2183032d2.png
+# 982e437b018177d4137961b251a442c5
+
+data/clothing2/5e8dacb854bd1fe2183032df.mp3
+# c52896152e71637d4f9ecda0b896e42c
+
+data/clothing2/index.json
+# 7eaf889b59edaaaa35b07713ec01d141
+
+data/clothing2/5e8dacb854bd1fe2183032df.png
+# 3ce5961fb8eb16bc9e80ea5f2e1a610a
+
+data/clothing2/5e92e8bb8ef7c7826650ada6.mp3
+# d1e27ff7806a472ea8970f389d607cf9
+
+data/clothing2/5e8dacb854bd1fe2183032d4.png
+# 68505cb933428d84cb033cb86d09c034
+
+data/clothing2/5e92e8ba8ef7c7826650ada5.mp3
+# 69571a82170bb36c2bd1d8c26e77a586
+
+data/clothing2/5e92e8be8ef7c7826650ada9.mp3
+# 99ef0f20bec637f1857d1b26ceb43cf7
+
+data/clothing2/5e92e8bc8ef7c7826650ada7.mp3
+# 03a5aac88bbf55a0e533c48cdbbbe5a2
+
+data/clothing2/5e8dacb854bd1fe2183032e1.png
+# e16d8497d90b57b48cb2b17c2625f3c4
+
+data/clothing2/5e8dacb854bd1fe2183032d5.mp3
+# 4905d7a99543adbb78f3ecb0da5c3da6
+
+data/clothing2/5e92e8bc8ef7c7826650ada7.png
+# 9fc6feddacfc1466d31c21db3a63b32f
+
+data/clothing2/5e8dacb854bd1fe2183032e2.mp3
+# 93c467bc446a5d5924ce08afeebc07bf
+
+data/clothing2/5e92e8bb8ef7c7826650ada6.png
+# b886bbc3935cfd195baf794058b50558
+
+data/clothing2/5e92e8ba8ef7c7826650ada5.png
+# 4b8b938de9470db1d6ae6e15fde9dbe8
+
+data/clothing2/5e8dacb854bd1fe2183032d3.png
+# be1679671764b9e8d2ce0ea8decf94f2
+
+data/clothing2/5e8dacb854bd1fe2183032d2.mp3
+# 05b1c7e5f8c2e3e30439cb8a2dba3010
+
+data/clothing2/5e8dacb854bd1fe2183032d4.mp3
+# ed8d898bcf2078c5fa0a76305a207493
+
+data/clothing2/5e92e8be8ef7c7826650ada9.png
+# 9a5e83ef29e31bcaa6c7e09162e94c34
+
+data/clothing2/5e8dacb854bd1fe2183032e2.png
+# 10022e2f236ae9bdfb68dce663476edd
+
+data/clothing2/5e92e8bd8ef7c7826650ada8.mp3
+# 13fe647aa5826555f5be85476bb3c972
+
 data/weather/rain.png
 # 0c7c822312bf163e4be2767d04f08ab9
 
@@ -1127,6 +1277,81 @@ data/numbers1/aad6914f8f4e0871030b7c6814f752e6.mp3
 
 data/numbers1/181245720b7774e764cf1000e569d5d2.mp3
 # 040c6068eb28779482d1e0ca567172d5
+
+data/clothing1/5e92e8b98ef7c7826650ada3.mp3
+# 42852a22265f975b74c069217a6d04be
+
+data/clothing1/5e92e8b78ef7c7826650ada2.mp3
+# 24bf700cb2bcc1b75b0db4c19113e118
+
+data/clothing1/5e92e8b58ef7c7826650ad9f.mp3
+# 9dd0bb6f7df71dd5f12518ef9e4f6627
+
+data/clothing1/5e92e8b68ef7c7826650ada1.mp3
+# 9533a4d505d4e7f6082ebc4bc3d45611
+
+data/clothing1/5e8dacb854bd1fe2183032d6.mp3
+# cfe3b8b6b40c705645cd36045c06d533
+
+data/clothing1/5e8dacb854bd1fe2183032d7.mp3
+# 68902c6f8f90ee1abde6c58f2309a3e6
+
+data/clothing1/5e92e8b78ef7c7826650ada2.png
+# a36fff0350c6727aa81aabe8bf1e50d1
+
+data/clothing1/5e92e8b68ef7c7826650ada1.png
+# 5079959493de95f8d0e02bda1d70a252
+
+data/clothing1/index.json
+# 2d4b18ae49f4b4add67ca38e4fd47b40
+
+data/clothing1/5e92e8b98ef7c7826650ada4.png
+# 3239351a2acf2f615ef3ea151b455123
+
+data/clothing1/5e92e8b58ef7c7826650ad9d.mp3
+# 8690cea9ec9bfded3f2a2431e3d1e2cd
+
+data/clothing1/5e8dacb854bd1fe2183032d6.png
+# f5cac511d7b3e170b90577f9891fc666
+
+data/clothing1/5e92e8b48ef7c7826650ad9c.mp3
+# 9a1ba6ecd301534063aab0f597a644b0
+
+data/clothing1/5e8dacb854bd1fe2183032e3.mp3
+# d7aa9f0c0295d4b596e7fc78268a7bc4
+
+data/clothing1/5e92e8b58ef7c7826650ad9e.mp3
+# ad773a64258629a10d8b5c2d321686c2
+
+data/clothing1/5e92e8b48ef7c7826650ad9c.png
+# e1a9ca34fc81fbe4210ad959163af2e3
+
+data/clothing1/5e92e8b68ef7c7826650ada0.png
+# cdcc4d5dfd599513b9fdef92ea28abb4
+
+data/clothing1/5e92e8b58ef7c7826650ad9f.png
+# 00b8dce0a6cb5a8ca8fc649f400616f4
+
+data/clothing1/5e8dacb854bd1fe2183032e3.png
+# 8158536ded5129e83d66b73795841f71
+
+data/clothing1/5e8dacb854bd1fe2183032d7.png
+# 4d3e70e0780fd8864c8655f17283cb3e
+
+data/clothing1/5e92e8b58ef7c7826650ad9d.png
+# 251049a2179a9171726746a983fdce85
+
+data/clothing1/5e92e8b98ef7c7826650ada4.mp3
+# 3676222373169e57a39286f40dd9e208
+
+data/clothing1/5e92e8b68ef7c7826650ada0.mp3
+# c770be722d8ed83f5226cf032575ddd5
+
+data/clothing1/5e92e8b58ef7c7826650ad9e.png
+# b4369ce239b7ce505bf0f17020cab88e
+
+data/clothing1/5e92e8b98ef7c7826650ada3.png
+# c4e442d6a34a06dab8721e058280c078
 
 data/colors/red.png
 # 5fd557f479daacac6070564cc3efb21a
@@ -1460,6 +1685,81 @@ data/days/67b19578d0752ceb5bfc7abb46587f82.mp3
 
 data/days/1ae72f6826c2717962d123e8088116c2.mp3
 # aad7222544948df9a80c7873fc42efc9
+
+data/clothing4/5e8dacb854bd1fe2183032d1.png
+# 8f015b8af518d2a2ad1ec23f76886227
+
+data/clothing4/5e92e8c38ef7c7826650adb0.png
+# fef844fc2c6638fba9cc9580db8c6f6a
+
+data/clothing4/5e8dacb854bd1fe2183032d1.mp3
+# 6b480af973a99a107eff65e4738ee12d
+
+data/clothing4/5e92e8c58ef7c7826650adb6.png
+# 8bf567d99bdd9ae37bbde7150b543566
+
+data/clothing4/5e92e8c68ef7c7826650adb8.mp3
+# 2de63b7bcf8ea80efe7a3c4e14aa1bf2
+
+data/clothing4/5e92e8c38ef7c7826650adb1.png
+# 45cb9b50932c9321da1c3afd8fa0a28d
+
+data/clothing4/5e92e8c28ef7c7826650adaf.png
+# 96475eabf604aa4db3225b85713939a4
+
+data/clothing4/5e92e8c48ef7c7826650adb4.mp3
+# 2fa2279c9ceff9293e204af18ab7dc43
+
+data/clothing4/5e92e8c58ef7c7826650adb6.mp3
+# eff349fad117433e8c8555a363908bdb
+
+data/clothing4/5e92e8c68ef7c7826650adb8.png
+# b5a9381f9d7dcaf9dd7d54de70a1748e
+
+data/clothing4/5e92e8c58ef7c7826650adb7.png
+# 879c38d9c5b2577a7092e3ff86921560
+
+data/clothing4/index.json
+# 617c5cb311458d75e87d68f87ad436d2
+
+data/clothing4/5e8dacb854bd1fe2183032dc.png
+# 447599ac0e584eb740af3620547039bf
+
+data/clothing4/5e8dacb854bd1fe2183032dc.mp3
+# 0180922c2ec046610f40e9c5bdae2cff
+
+data/clothing4/5e92e8c48ef7c7826650adb5.png
+# d71f44bf6d26cd7c7b7aa7ac638b4159
+
+data/clothing4/5e92e8c48ef7c7826650adb4.png
+# 010cb8d0d25c3bc7f52fd4ca56fe9948
+
+data/clothing4/5e92e8c48ef7c7826650adb5.mp3
+# 5b7b59a12f0bc1386185b0d6f34ccdd1
+
+data/clothing4/5e92e8c58ef7c7826650adb7.mp3
+# c8b43baeee2b4cda00897a850cfc7f13
+
+data/clothing4/5e92e8c38ef7c7826650adb1.mp3
+# 48d30b2cdcc5980ab42f7ad49eb75811
+
+data/clothing4/5e92e8c28ef7c7826650adaf.mp3
+# 34c712d0caf4a2756ddfea324ad69480
+
+data/clothing4/5e92e8c48ef7c7826650adb3.png
+# 849aebde760b0e88472f7034e92dde3a
+
+data/clothing4/5e92e8c38ef7c7826650adb2.png
+# cf18bd42e5b09d6f22d6c5c899dd91ad
+
+data/clothing4/5e92e8c38ef7c7826650adb2.mp3
+# 37a40bd6b5428c2b5ce37b4fbabbf658
+
+data/clothing4/5e92e8c48ef7c7826650adb3.mp3
+# fa3de9a1d9eeb4b9ed4bc81670711d75
+
+data/clothing4/5e92e8c38ef7c7826650adb0.mp3
+# fad04d6a159ec8f37c355f2bfe51ec5c
 
 data/animals3/lion.png
 # 7fb5db86a2cbbf6f1f06e59b616fa27f
