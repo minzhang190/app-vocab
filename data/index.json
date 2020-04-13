@@ -29,6 +29,12 @@
     "id": "body3",
     "name": "Body 3"
 }, {
+    "id": "body4a",
+    "name": "Body A"
+}, {
+    "id": "body4b",
+    "name": "Body B"
+}, {
     "id": "shapes",
     "name": "Shapes"
 }, {
