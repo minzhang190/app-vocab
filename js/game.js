@@ -150,6 +150,8 @@
             $('.scoreboard-button').off('click.game');
             next();
         });
+
+        gtag('event', 'vocab-scoreboard', {event_category: 'app-vocab', event_label: 'stars-' + stars, value: score});
     };
 
     window.showFlippedCard = function($img, text, ruby) {

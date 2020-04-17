@@ -140,6 +140,7 @@
         }
 
         window.showGame();
+        gtag('event', 'vocab-game1', {event_category: 'app-vocab', event_label: id});
 
         rounds = 0;
         window.gameInitScore(0);

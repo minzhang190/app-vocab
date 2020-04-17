@@ -201,6 +201,7 @@
         }
 
         window.showGame();
+        gtag('event', 'vocab-game3', {event_category: 'app-vocab', event_label: id});
 
         window.gameInitScore(0);
         window.gameSetStars(3);

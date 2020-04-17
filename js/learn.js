@@ -75,5 +75,6 @@
     window.showLearn = function(id) {
 
         playLearn(id);
+        gtag('event', 'vocab-learn', {event_category: 'app-vocab', event_label: id});
     };
 })(jQuery);

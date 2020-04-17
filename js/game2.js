@@ -156,6 +156,7 @@
         var data = window.data[id].slice();
 
         window.showGame();
+        gtag('event', 'vocab-game2', {event_category: 'app-vocab', event_label: id});
 
         playGame(id, data);
     };
