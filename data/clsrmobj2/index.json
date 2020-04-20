@@ -1,0 +1,86 @@
+[
+    {
+        "image": "5e9cc6f283dd7905aa16c687.png",
+        "audio": "5e9cc6f283dd7905aa16c687.mp3",
+        "ruby": "dìng shū jī",
+        "text": "订书机",
+        "english": "stapler"
+    },
+    {
+        "image": "5e9cc6f383dd7905aa16c688.png",
+        "audio": "5e9cc6f383dd7905aa16c688.mp3",
+        "ruby": "jiāo dài",
+        "text": "胶带",
+        "english": "tape"
+    },
+    {
+        "image": "5e9cc6f383dd7905aa16c689.png",
+        "audio": "5e9cc6f383dd7905aa16c689.mp3",
+        "ruby": "chǐ zi",
+        "text": "尺子",
+        "english": "ruler"
+    },
+    {
+        "image": "5e9cc6f483dd7905aa16c68a.png",
+        "audio": "5e9cc6f483dd7905aa16c68a.mp3",
+        "ruby": "biàn lì tiē",
+        "text": "便利贴",
+        "english": "sticky note"
+    },
+    {
+        "image": "5e9cc6f583dd7905aa16c68b.png",
+        "audio": "5e9cc6f583dd7905aa16c68b.mp3",
+        "ruby": "tiē huà",
+        "text": "贴画",
+        "english": "stickers"
+    },
+    {
+        "image": "5e9cc6f683dd7905aa16c68c.png",
+        "audio": "5e9cc6f683dd7905aa16c68c.mp3",
+        "ruby": "là bǐ",
+        "text": "蜡笔",
+        "english": "crayon"
+    },
+    {
+        "image": "5e9cc6f683dd7905aa16c68d.png",
+        "audio": "5e9cc6f683dd7905aa16c68d.mp3",
+        "ruby": "jiāo bàng",
+        "text": "胶棒",
+        "english": "glue stick"
+    },
+    {
+        "image": "5e9cc6f783dd7905aa16c68e.png",
+        "audio": "5e9cc6f783dd7905aa16c68e.mp3",
+        "ruby": "shū jià",
+        "text": "书架",
+        "english": "bookshelf"
+    },
+    {
+        "image": "5e9cc6f883dd7905aa16c68f.png",
+        "audio": "5e9cc6f883dd7905aa16c68f.mp3",
+        "ruby": "zhuō zi",
+        "text": "桌子",
+        "english": "table"
+    },
+    {
+        "image": "5e9cc6f983dd7905aa16c690.png",
+        "audio": "5e9cc6f983dd7905aa16c690.mp3",
+        "ruby": "dǎ yìn jī",
+        "text": "打印机",
+        "english": "printer"
+    },
+    {
+        "image": "5e9cc6fa83dd7905aa16c691.png",
+        "audio": "5e9cc6fa83dd7905aa16c691.mp3",
+        "ruby": "bái bǎn",
+        "text": "白板",
+        "english": "whiteboard"
+    },
+    {
+        "image": "5e9cc6fb83dd7905aa16c692.png",
+        "audio": "5e9cc6fb83dd7905aa16c692.mp3",
+        "ruby": "guó qí",
+        "text": "国旗",
+        "english": "national flag"
+    }
+]

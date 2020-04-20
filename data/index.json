@@ -77,6 +77,15 @@
     "id": "school",
     "name": "School"
 }, {
+    "id": "clsrmobj1",
+    "name": "Classroom Objects 1"
+}, {
+    "id": "clsrmobj2",
+    "name": "Classroom Objects 2"
+}, {
+    "id": "clsrmobj3",
+    "name": "Classroom Objects 3"
+}, {
     "id": "weather",
     "name": "Weather"
 }, {

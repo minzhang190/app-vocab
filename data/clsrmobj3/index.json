@@ -1,0 +1,93 @@
+[
+    {
+        "image": "5e8dafd4fe028112aa073e70.png",
+        "audio": "5e8dafd4fe028112aa073e70.mp3",
+        "ruby": "diàn nǎo",
+        "text": "电脑",
+        "english": "computer"
+    },
+    {
+        "image": "5e8daed2f027c1f33241f487.png",
+        "audio": "5e8daed2f027c1f33241f487.mp3",
+        "ruby": "wén jiàn jiā",
+        "text": "文件夹",
+        "english": "folder"
+    },
+    {
+        "image": "5e9cc6fd83dd7905aa16c693.png",
+        "audio": "5e9cc6fd83dd7905aa16c693.mp3",
+        "ruby": "dì tú",
+        "text": "地图",
+        "english": "map"
+    },
+    {
+        "image": "5e9cc6fe83dd7905aa16c694.png",
+        "audio": "5e9cc6fe83dd7905aa16c694.mp3",
+        "ruby": "biǎo",
+        "text": "表",
+        "english": "clock"
+    },
+    {
+        "image": "5e9cc6ff83dd7905aa16c695.png",
+        "audio": "5e9cc6ff83dd7905aa16c695.mp3",
+        "ruby": "rì lì",
+        "text": "日历",
+        "english": "calendar"
+    },
+    {
+        "image": "5e9cc6ff83dd7905aa16c696.png",
+        "audio": "5e9cc6ff83dd7905aa16c696.mp3",
+        "ruby": "ěr jī",
+        "text": "耳机",
+        "english": "headphones"
+    },
+    {
+        "image": "5e9cc70083dd7905aa16c697.png",
+        "audio": "5e9cc70083dd7905aa16c697.mp3",
+        "ruby": "lā jī tǒng",
+        "text": "垃圾桶",
+        "english": "trash can"
+    },
+    {
+        "image": "5e9cc70183dd7905aa16c698.png",
+        "audio": "5e9cc70183dd7905aa16c698.mp3",
+        "ruby": "bǐ dài",
+        "text": "笔袋",
+        "english": "pencil pouch"
+    },
+    {
+        "image": "5e8dac67201d843588616dc8.png",
+        "audio": "5e8dac67201d843588616dc8.mp3",
+        "ruby": "yǐ zi",
+        "text": "椅子",
+        "english": "chair"
+    },
+    {
+        "image": "5e8dac67201d843588616dc7.png",
+        "audio": "5e8dac67201d843588616dc7.mp3",
+        "ruby": "dì tǎn",
+        "text": "地毯",
+        "english": "carpet"
+    },
+    {
+        "image": "5e9cc70383dd7905aa16c699.png",
+        "audio": "5e9cc70383dd7905aa16c699.mp3",
+        "ruby": "jiāo shuǐ",
+        "text": "胶水",
+        "english": "glue"
+    },
+    {
+        "image": "5e9cc70483dd7905aa16c69a.png",
+        "audio": "5e9cc70483dd7905aa16c69a.mp3",
+        "ruby": "kāi guān",
+        "text": "开关",
+        "english": "switch"
+    },
+    {
+        "image": "5e9cc70483dd7905aa16c69b.png",
+        "audio": "5e9cc70483dd7905aa16c69b.mp3",
+        "ruby": "dēng",
+        "text": "灯",
+        "english": "light"
+    }
+]

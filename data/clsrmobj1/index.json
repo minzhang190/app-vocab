@@ -1,0 +1,86 @@
+[
+    {
+        "image": "5e9cc6ec83dd7905aa16c67f.png",
+        "audio": "5e9cc6ec83dd7905aa16c67f.mp3",
+        "ruby": "jiào shì",
+        "text": "教室",
+        "english": "classroom"
+    },
+    {
+        "image": "5e9cc6ec83dd7905aa16c680.png",
+        "audio": "5e9cc6ec83dd7905aa16c680.mp3",
+        "ruby": "jiào shì yòng pǐn",
+        "text": "教室用品",
+        "english": "classroom objects"
+    },
+    {
+        "image": "5e8dafd4fe028112aa073e72.png",
+        "audio": "5e8dafd4fe028112aa073e72.mp3",
+        "ruby": "shū bāo",
+        "text": "书包",
+        "english": "school bag"
+    },
+    {
+        "image": "5e8dafd4fe028112aa073e6e.png",
+        "audio": "5e8dafd4fe028112aa073e6e.mp3",
+        "ruby": "shū",
+        "text": "书",
+        "english": "book"
+    },
+    {
+        "image": "5e9cc6ee83dd7905aa16c681.png",
+        "audio": "5e9cc6ee83dd7905aa16c681.mp3",
+        "ruby": "běn zi",
+        "text": "本子",
+        "english": "notebook"
+    },
+    {
+        "image": "5e9cc6ee83dd7905aa16c682.png",
+        "audio": "5e9cc6ee83dd7905aa16c682.mp3",
+        "ruby": "zhǐ",
+        "text": "纸",
+        "english": "paper"
+    },
+    {
+        "image": "5e9cc6ee83dd7905aa16c683.png",
+        "audio": "5e9cc6ee83dd7905aa16c683.mp3",
+        "ruby": "qiān bǐ",
+        "text": "铅笔",
+        "english": "pencil"
+    },
+    {
+        "image": "5e9cc6ef83dd7905aa16c684.png",
+        "audio": "5e9cc6ef83dd7905aa16c684.mp3",
+        "ruby": "qiān bǐ hé",
+        "text": "铅笔盒",
+        "english": "pencil case"
+    },
+    {
+        "image": "5e9cc6ef83dd7905aa16c685.png",
+        "audio": "5e9cc6ef83dd7905aa16c685.mp3",
+        "ruby": "cǎi bǐ",
+        "text": "彩笔",
+        "english": "color pen"
+    },
+    {
+        "image": "5e8dafd4fe028112aa073e6f.png",
+        "audio": "5e8dafd4fe028112aa073e6f.mp3",
+        "ruby": "xiàng pí",
+        "text": "橡皮",
+        "english": "eraser"
+    },
+    {
+        "image": "5e9cc6f083dd7905aa16c686.png",
+        "audio": "5e9cc6f083dd7905aa16c686.mp3",
+        "ruby": "juǎn bǐ dāo",
+        "text": "卷笔刀",
+        "english": "sharpener"
+    },
+    {
+        "image": "5e8dafd4fe028112aa073e73.png",
+        "audio": "5e8dafd4fe028112aa073e73.mp3",
+        "ruby": "jiǎn zi",
+        "text": "剪子",
+        "english": "scissors"
+    }
+]

@@ -103,7 +103,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# d4f2c7c5ec614389aa6d22f231c9294c
+# 8e08fca2bf1f7be557624e1658b93235
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -584,6 +584,87 @@ data/animals2/450c4dd8b08a75ad4ca3cfff57e6c9e0.mp3
 
 data/animals2/cat.png
 # e43656a987d390bfe3d49c9360ebaa44
+
+data/clsrmobj3/5e9cc70383dd7905aa16c699.png
+# df22fd70c4822c8b38ee6cba9d962229
+
+data/clsrmobj3/5e9cc6ff83dd7905aa16c695.png
+# 085210be2921ac16069e2de1ce462f4f
+
+data/clsrmobj3/5e8dafd4fe028112aa073e70.png
+# 96df393b001949c3c73354f2ba0ef579
+
+data/clsrmobj3/5e9cc70483dd7905aa16c69a.png
+# 9ffa8bf6250455c91545f541ba3fd1df
+
+data/clsrmobj3/5e8dac67201d843588616dc7.png
+# 581515edc6871f90ffec4f978c487a29
+
+data/clsrmobj3/5e9cc70483dd7905aa16c69b.mp3
+# 1c6b834a34f45678eeed04234a1f7663
+
+data/clsrmobj3/5e8dafd4fe028112aa073e70.mp3
+# 800d7914e82efadd261a687de751bce6
+
+data/clsrmobj3/5e9cc70083dd7905aa16c697.png
+# e7c3a0eae3d031a25514cd005734541e
+
+data/clsrmobj3/5e8daed2f027c1f33241f487.mp3
+# 84779dd6829058f8477076afb1211bfd
+
+data/clsrmobj3/5e9cc6fd83dd7905aa16c693.png
+# bc18101671961a691739162f0796c617
+
+data/clsrmobj3/5e9cc6fe83dd7905aa16c694.mp3
+# ba8bcf5a7e84363bab9ef0d2db0c80bb
+
+data/clsrmobj3/5e9cc6ff83dd7905aa16c696.png
+# 7e5108a601ab418464b3606b4d24b4c9
+
+data/clsrmobj3/index.json
+# a6000ddba5aa2f78f2f3877696766943
+
+data/clsrmobj3/5e9cc6fd83dd7905aa16c693.mp3
+# 98da3fb40c13d235c9aa26406ea5fcb9
+
+data/clsrmobj3/5e9cc6ff83dd7905aa16c695.mp3
+# 412e5e8a96ca163317fb85c9c88bc9b2
+
+data/clsrmobj3/5e9cc6fe83dd7905aa16c694.png
+# bb78c0243866c38e86600150c1ca9062
+
+data/clsrmobj3/5e9cc70383dd7905aa16c699.mp3
+# 1e4413d5132e7c36fc0bd98f75f990ef
+
+data/clsrmobj3/5e9cc70183dd7905aa16c698.mp3
+# ed1a81f737c30e17ec2d3dc25dd058e8
+
+data/clsrmobj3/5e8dac67201d843588616dc7.mp3
+# 37ebccd2ce58b28ac719e5d045bcd2c9
+
+data/clsrmobj3/5e9cc70483dd7905aa16c69a.mp3
+# cc30a6dbff02251249d82f0e7f088f62
+
+data/clsrmobj3/5e9cc6ff83dd7905aa16c696.mp3
+# 4d6ee4ab8b879c40fe8da5b8b9ef0d8f
+
+data/clsrmobj3/5e8daed2f027c1f33241f487.png
+# d61fed7c3823b93d04fc32285ae9f474
+
+data/clsrmobj3/5e8dac67201d843588616dc8.mp3
+# 64123fe035efd02aeb224585271fa712
+
+data/clsrmobj3/5e9cc70483dd7905aa16c69b.png
+# 0bffc9495c6f917714c69cd305019f25
+
+data/clsrmobj3/5e9cc70183dd7905aa16c698.png
+# 0b4ad8b1cbc8d9dbc40061fbf68953cd
+
+data/clsrmobj3/5e8dac67201d843588616dc8.png
+# c5861b66dc986ffa47dfd189c5f5833c
+
+data/clsrmobj3/5e9cc70083dd7905aa16c697.mp3
+# 21bb8039979b4bd0a312f854197886ea
 
 data/shapes/star.png
 # c34603ff51818a27fdc1b32edb4eabaf
@@ -1680,6 +1761,81 @@ data/colors/1c64fb546d27d9d4ab7a0c856a437abe.mp3
 data/colors/e1e14bd3b8fa4e5f5f4d84ac34e9976f.mp3
 # 757e7eae6223680943fcdce64d6cfd3b
 
+data/clsrmobj1/5e9cc6ec83dd7905aa16c67f.png
+# a1cafb52afaec47dc38455dd29d50e46
+
+data/clsrmobj1/5e8dafd4fe028112aa073e72.png
+# dcacb01df2db6ec730179c2fda1a84c8
+
+data/clsrmobj1/5e9cc6ec83dd7905aa16c67f.mp3
+# 1e5a5817e4ea3e7814c8b299e8911d26
+
+data/clsrmobj1/5e9cc6ec83dd7905aa16c680.png
+# 562d37bf478bc0ad5a9c41bfd48c0e01
+
+data/clsrmobj1/5e8dafd4fe028112aa073e72.mp3
+# 5d8169dce28e0a19917cdc7f8152c838
+
+data/clsrmobj1/5e8dafd4fe028112aa073e6f.mp3
+# 19effcc350f404543adc19700e1e8505
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c682.mp3
+# cf13720d3b395f333c48c9c31d95b7fe
+
+data/clsrmobj1/index.json
+# 9a31a4d4d39ea7224e2e2228f6efc39e
+
+data/clsrmobj1/5e9cc6f083dd7905aa16c686.png
+# d094663bfbdd1460c2ae924c35e83eee
+
+data/clsrmobj1/5e8dafd4fe028112aa073e73.mp3
+# 570007751b5dc370462d3abb2ae130b2
+
+data/clsrmobj1/5e8dafd4fe028112aa073e6f.png
+# 33c801f1f9ce1d84ad6fae61ddb377bd
+
+data/clsrmobj1/5e8dafd4fe028112aa073e6e.png
+# ca1bc3d751def8fa6413ab1b266c568e
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c681.mp3
+# 1c8ad34e722c021fb8d56b398edd1838
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c681.png
+# a399bf5e2554d02a12ad729ed1d1da0c
+
+data/clsrmobj1/5e9cc6ef83dd7905aa16c684.mp3
+# 7ce0140afd27be0c282d65082dc5ec6e
+
+data/clsrmobj1/5e9cc6f083dd7905aa16c686.mp3
+# d3af944c1a50e0999594e4fcf6812455
+
+data/clsrmobj1/5e8dafd4fe028112aa073e6e.mp3
+# 074809dbe91bcf0af5bde371913a6717
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c682.png
+# c3bd2244ad6f10b525fed0da5c7a1852
+
+data/clsrmobj1/5e9cc6ef83dd7905aa16c685.png
+# a651908bde34c08ea1e5574b951834eb
+
+data/clsrmobj1/5e9cc6ec83dd7905aa16c680.mp3
+# 83cc06aefcdd1a40ff45a1ad9d65cdfd
+
+data/clsrmobj1/5e8dafd4fe028112aa073e73.png
+# 7749b45be95e728e27dea4959aee593c
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c683.png
+# e7af54e6b1291a0c48107ce9eeefdd44
+
+data/clsrmobj1/5e9cc6ef83dd7905aa16c684.png
+# 65da14fc399a18e440aef4f76d8c3d1b
+
+data/clsrmobj1/5e9cc6ef83dd7905aa16c685.mp3
+# ef685267a85a274af1449afd7d2acab7
+
+data/clsrmobj1/5e9cc6ee83dd7905aa16c683.mp3
+# e15657e4479cebfc1580700e5791d88f
+
 data/body1/arm.png
 # fb758e9f6337e329ea00db60bd0c64de
 
@@ -1982,6 +2138,81 @@ data/body4b/5e943b3625c505681d0f1df6.png
 
 data/body4b/5e943b3425c505681d0f1df4.png
 # 4b4871623ac2a3bd57083656111fe864
+
+data/clsrmobj2/5e9cc6f283dd7905aa16c687.mp3
+# af16e3be077a93310ff7413d02528ce0
+
+data/clsrmobj2/5e9cc6f683dd7905aa16c68d.mp3
+# 3d8e786600ad568eee738c9d7dedfe7a
+
+data/clsrmobj2/5e9cc6f483dd7905aa16c68a.mp3
+# 1ce65dea999e0980f26229f13519e00b
+
+data/clsrmobj2/5e9cc6f583dd7905aa16c68b.mp3
+# 27134abfe2175ce3b34adf5f67dc671b
+
+data/clsrmobj2/5e9cc6f683dd7905aa16c68c.png
+# ff61254dd08bd07355b60598967c8a51
+
+data/clsrmobj2/5e9cc6f383dd7905aa16c689.mp3
+# 4e94f714639340ccef85fc7a41242d67
+
+data/clsrmobj2/5e9cc6f383dd7905aa16c688.mp3
+# 8e45a8d720a2d24e4c22a926c7d15491
+
+data/clsrmobj2/5e9cc6f383dd7905aa16c688.png
+# 3d43a8f0475894709179f6bb317762ae
+
+data/clsrmobj2/5e9cc6f683dd7905aa16c68d.png
+# a2e706076a619a5263b6f040d9b20dc3
+
+data/clsrmobj2/5e9cc6fa83dd7905aa16c691.png
+# 23ec97c66f84693fed87f94750770cf3
+
+data/clsrmobj2/5e9cc6f783dd7905aa16c68e.mp3
+# be551cc41696cf7c22fcab27449ba06a
+
+data/clsrmobj2/5e9cc6f283dd7905aa16c687.png
+# 16d56248b4cb447d2bcfee22cf6db3b9
+
+data/clsrmobj2/5e9cc6f983dd7905aa16c690.png
+# 9e2c763445e2c482370d787621105bb8
+
+data/clsrmobj2/5e9cc6f783dd7905aa16c68e.png
+# 90a5ac8a23fbb2586f5966ff30d5a27c
+
+data/clsrmobj2/index.json
+# 6970a8574b28a0708bad5d5cac29381b
+
+data/clsrmobj2/5e9cc6f883dd7905aa16c68f.png
+# b5f8560fd87d1e58732654d648ee6086
+
+data/clsrmobj2/5e9cc6fa83dd7905aa16c691.mp3
+# 9f2e4996e6e960d70688b48bee6fe666
+
+data/clsrmobj2/5e9cc6f983dd7905aa16c690.mp3
+# e143188b54c6ec26f3a092cfe303bbf5
+
+data/clsrmobj2/5e9cc6fb83dd7905aa16c692.mp3
+# f13a3bb3b634c031ce59ae1291bfbfe3
+
+data/clsrmobj2/5e9cc6f683dd7905aa16c68c.mp3
+# 3ea6c6f47b1e19bf64bd6f25c4d66d73
+
+data/clsrmobj2/5e9cc6f383dd7905aa16c689.png
+# 65482348baf4ef7e4bdf367d31346a3f
+
+data/clsrmobj2/5e9cc6f583dd7905aa16c68b.png
+# 22177dc34d0d69864a824346e45b1ca0
+
+data/clsrmobj2/5e9cc6f883dd7905aa16c68f.mp3
+# b895364194b733ebfe29c7dc3e7f9fb0
+
+data/clsrmobj2/5e9cc6f483dd7905aa16c68a.png
+# f9f7847bbae51b563abfb03afdca6848
+
+data/clsrmobj2/5e9cc6fb83dd7905aa16c692.png
+# b7cf30e2c5cd941160f2f1133b8575d6
 
 data/days/saturday.png
 # a6a220b4f634daac37319a1d4669b9d7
