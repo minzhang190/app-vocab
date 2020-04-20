@@ -1,0 +1,58 @@
+[
+    {
+        "image": "5e9cda08037c6b87b73250f1.png",
+        "audio": "5e9cda08037c6b87b73250f1.mp3",
+        "ruby": "dòng wu",
+        "text": "动物",
+        "english": "animal"
+    },
+    {
+        "image": "5e9cda09037c6b87b73250f2.png",
+        "audio": "5e9cda09037c6b87b73250f2.mp3",
+        "ruby": "niú",
+        "text": "牛",
+        "english": "cattle"
+    },
+    {
+        "image": "5e9cda09037c6b87b73250f3.png",
+        "audio": "5e9cda09037c6b87b73250f3.mp3",
+        "ruby": "shān yáng",
+        "text": "山羊",
+        "english": "goat"
+    },
+    {
+        "image": "5e9cda09037c6b87b73250f4.png",
+        "audio": "5e9cda09037c6b87b73250f4.mp3",
+        "ruby": "mián yáng",
+        "text": "绵羊",
+        "english": "sheep"
+    },
+    {
+        "image": "5e8dab8369c2516911ea4531.png",
+        "audio": "5e8dab8369c2516911ea4531.mp3",
+        "ruby": "gǒu",
+        "text": "狗",
+        "english": "dog"
+    },
+    {
+        "image": "5e8dab8369c2516911ea4530.png",
+        "audio": "5e8dab8369c2516911ea4530.mp3",
+        "ruby": "māo",
+        "text": "猫",
+        "english": "cat"
+    },
+    {
+        "image": "5e9cda0b037c6b87b73250f5.png",
+        "audio": "5e9cda0b037c6b87b73250f5.mp3",
+        "ruby": "gōng jī",
+        "text": "公鸡",
+        "english": "rooster"
+    },
+    {
+        "image": "5e9cda0b037c6b87b73250f6.png",
+        "audio": "5e9cda0b037c6b87b73250f6.mp3",
+        "ruby": "mǔ jī",
+        "text": "母鸡",
+        "english": "hen"
+    }
+]

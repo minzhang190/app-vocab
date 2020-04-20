@@ -103,7 +103,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# 8e08fca2bf1f7be557624e1658b93235
+# ee9fe0b2d6029caba0d1c356d8ceefdf
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -227,6 +227,57 @@ data/food2/meat.png
 
 data/food2/f37896e63b9eaf32c17a2c19c9bde1dd.mp3
 # 5ede2cf079d53e81debc526be96eeafd
+
+data/animals4a/5e9cda0b037c6b87b73250f5.png
+# 7cc7312c310d61685e8911eeae50f595
+
+data/animals4a/5e9cda09037c6b87b73250f3.mp3
+# 053e89892c5445b3945657818fde9a89
+
+data/animals4a/5e8dab8369c2516911ea4530.mp3
+# 6855f84e279c0de23bf43f25809f9d46
+
+data/animals4a/5e9cda0b037c6b87b73250f6.mp3
+# 3a60dd6999a6c252b7341abdb9cf1dc6
+
+data/animals4a/5e9cda09037c6b87b73250f4.png
+# 7481e16071bfe5092dc6de5068a93798
+
+data/animals4a/5e9cda09037c6b87b73250f2.mp3
+# bb82e6ad08df8e389668d56d3a457b96
+
+data/animals4a/index.json
+# 56ea57acb57c5d086f9dff990a83ef00
+
+data/animals4a/5e9cda09037c6b87b73250f2.png
+# f9f2b3abced6a5d3b2371a96b6c0333d
+
+data/animals4a/5e8dab8369c2516911ea4530.png
+# 651bcbea73e0be9ccef4b2454a3c4d32
+
+data/animals4a/5e8dab8369c2516911ea4531.mp3
+# a7f3c28f7b9efca875a128f005d25955
+
+data/animals4a/5e9cda0b037c6b87b73250f6.png
+# 4ed169723c4aae683970c2b85280e504
+
+data/animals4a/5e9cda0b037c6b87b73250f5.mp3
+# 34579b8623ae45e22b1c0d568303f78e
+
+data/animals4a/5e9cda09037c6b87b73250f4.mp3
+# 3e2220a42c347bfc9434b8d17d0aa2d3
+
+data/animals4a/5e8dab8369c2516911ea4531.png
+# 56455533e0ac8dcd0ae35e0c3fd774d5
+
+data/animals4a/5e9cda09037c6b87b73250f3.png
+# b2337779fbdda6f91e656005cdd19902
+
+data/animals4a/5e9cda08037c6b87b73250f1.mp3
+# f83edc46ebc276f275b9e2b6cc711efb
+
+data/animals4a/5e9cda08037c6b87b73250f1.png
+# 29b5762b2bd8ad1d0dadffa8b4a7edc5
 
 data/fruits4b/5e8bf944f6082885ff046ab4.mp3
 # 112f57bf0ded04809b0e6da822b689d8
@@ -848,6 +899,57 @@ data/clothing3/5e92e8c18ef7c7826650adae.mp3
 
 data/clothing3/5e92e8bf8ef7c7826650adaa.png
 # 75bbca5790bc35da4589ab5d3f127031
+
+data/animals4b/5e8dab8369c2516911ea4532.png
+# a75573ab4226efeb8e54e1554023cebb
+
+data/animals4b/5e9cda0e037c6b87b73250fd.png
+# 43c4e28c87b0b49a37017987e9d99be4
+
+data/animals4b/5e9cda0d037c6b87b73250fb.mp3
+# 0cc0dbb904eacdd2d77161505909f307
+
+data/animals4b/5e9cda0e037c6b87b73250fc.png
+# 42f48e6318d7773c65283e5f25fd1a63
+
+data/animals4b/5e9cda0b037c6b87b73250f7.png
+# 69b275105c55aaec573272eadbafae76
+
+data/animals4b/5e9cda0e037c6b87b73250fd.mp3
+# ca40f25be3f06a5d206cd909517154bb
+
+data/animals4b/5e8dab8369c2516911ea4532.mp3
+# 23409ceb702b5c0ae7a5cfd93273d843
+
+data/animals4b/5e9cda0b037c6b87b73250f7.mp3
+# bb65c2e31011cf14c600b5f0dced4313
+
+data/animals4b/5e9cda0e037c6b87b73250fc.mp3
+# 4c5ca3d4e924ffd449a4dee775cf1fd1
+
+data/animals4b/5e9cda0d037c6b87b73250f9.png
+# cdef23e965061e30568504235f5fce6b
+
+data/animals4b/5e9cda0d037c6b87b73250fb.png
+# 456dfb6ff23ce7316914450bf8bd78f6
+
+data/animals4b/index.json
+# 54d13bc84dce9ea94ef6e600c0dbe30f
+
+data/animals4b/5e9cda0c037c6b87b73250f8.png
+# 45c5b04ab7fad089231dcdc6d041602e
+
+data/animals4b/5e9cda0c037c6b87b73250f8.mp3
+# cab40ee7d26f2bd68c2e2850af6e4a6b
+
+data/animals4b/5e9cda0d037c6b87b73250fa.png
+# 472dda4da0d2aa3969ee85e8e811d467
+
+data/animals4b/5e9cda0d037c6b87b73250fa.mp3
+# 253f0669ba27edf23d2857119d3d2af6
+
+data/animals4b/5e9cda0d037c6b87b73250f9.mp3
+# 2b02c3a1460e327dcc2c47d926ec1ec8
 
 data/fruits4a/5e8bf93ef6082885ff046aac.mp3
 # 732b7480da57067bd6ccd0845da66b23
