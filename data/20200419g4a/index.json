@@ -1,0 +1,93 @@
+[
+    {
+        "image": "5e9ccac2d50a14ecf823ab95.png",
+        "audio": "5e9ccac2d50a14ecf823ab95.mp3",
+        "ruby": "jì jié",
+        "text": "季节",
+        "english": "seasons"
+    },
+    {
+        "image": "5e9ccac3d50a14ecf823ab96.png",
+        "audio": "5e9ccac3d50a14ecf823ab96.mp3",
+        "ruby": "chūn tiān",
+        "text": "春天",
+        "english": "spring"
+    },
+    {
+        "image": "5e9ccac4d50a14ecf823ab97.png",
+        "audio": "5e9ccac4d50a14ecf823ab97.mp3",
+        "ruby": "xià tiān",
+        "text": "夏天",
+        "english": "summer"
+    },
+    {
+        "image": "5e9ccac5d50a14ecf823ab98.png",
+        "audio": "5e9ccac5d50a14ecf823ab98.mp3",
+        "ruby": "qiū tiān",
+        "text": "秋天",
+        "english": "autumn"
+    },
+    {
+        "image": "5e9ccac6d50a14ecf823ab99.png",
+        "audio": "5e9ccac6d50a14ecf823ab99.mp3",
+        "ruby": "dōng tiān",
+        "text": "冬天",
+        "english": "winter"
+    },
+    {
+        "image": "5e9cd58217c76e7d6c69f908.png",
+        "audio": "5e9cd58217c76e7d6c69f908.mp3",
+        "ruby": "xīng qī",
+        "text": "星期",
+        "english": "week"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dbf.png",
+        "audio": "5e8dad1da5b7500807899dbf.mp3",
+        "ruby": "xīng qī yī",
+        "text": "星期一",
+        "english": "Monday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc0.png",
+        "audio": "5e8dad1da5b7500807899dc0.mp3",
+        "ruby": "xīng qī èr",
+        "text": "星期二",
+        "english": "Tuesday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc1.png",
+        "audio": "5e8dad1da5b7500807899dc1.mp3",
+        "ruby": "xīng qī sān",
+        "text": "星期三",
+        "english": "Wednesday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc2.png",
+        "audio": "5e8dad1da5b7500807899dc2.mp3",
+        "ruby": "xīng qī sì",
+        "text": "星期四",
+        "english": "Thursday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc3.png",
+        "audio": "5e8dad1da5b7500807899dc3.mp3",
+        "ruby": "xīng qī wǔ",
+        "text": "星期五",
+        "english": "Friday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc4.png",
+        "audio": "5e8dad1da5b7500807899dc4.mp3",
+        "ruby": "xīng qī liù",
+        "text": "星期六",
+        "english": "Saturday"
+    },
+    {
+        "image": "5e8dad1da5b7500807899dc5.png",
+        "audio": "5e8dad1da5b7500807899dc5.mp3",
+        "ruby": "xīng qī rì",
+        "text": "星期日",
+        "english": "Sunday"
+    }
+]
