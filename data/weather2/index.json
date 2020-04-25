@@ -1,0 +1,86 @@
+[
+    {
+        "image": "5e9cd3b0c9c8767483d7747b.png",
+        "audio": "5e9cd3b0c9c8767483d7747b.mp3",
+        "ruby": "tiān qì yù bào",
+        "text": "天气预报",
+        "english": "weather forecast"
+    },
+    {
+        "image": "5e9cd3b2c9c8767483d7747d.png",
+        "audio": "5e9cd3b2c9c8767483d7747d.mp3",
+        "ruby": "tài yáng hěn dà",
+        "text": "太阳很大",
+        "english": "The sun is big. (It's sunny.)"
+    },
+    {
+        "image": "5e8db08a26af9d56f020f497.png",
+        "audio": "5e8db08a26af9d56f020f497.mp3",
+        "ruby": "duō yún",
+        "text": "多云",
+        "english": "cloudy"
+    },
+    {
+        "image": "5e8db08a26af9d56f020f494.png",
+        "audio": "5e8db08a26af9d56f020f494.mp3",
+        "ruby": "guā fēng",
+        "text": "刮风",
+        "english": "windy"
+    },
+    {
+        "image": "5e8db08a26af9d56f020f495.png",
+        "audio": "5e8db08a26af9d56f020f495.mp3",
+        "ruby": "xià yǔ",
+        "text": "下雨",
+        "english": "rainy"
+    },
+    {
+        "image": "5e8db08a26af9d56f020f496.png",
+        "audio": "5e8db08a26af9d56f020f496.mp3",
+        "ruby": "xià xuě",
+        "text": "下雪",
+        "english": "snowy"
+    },
+    {
+        "image": "5e9cd3bdc9c8767483d77488.png",
+        "audio": "5e9cd3bdc9c8767483d77488.mp3",
+        "ruby": "hěn rè",
+        "text": "很热",
+        "english": "very hot"
+    },
+    {
+        "image": "5e9cd3bec9c8767483d77489.png",
+        "audio": "5e9cd3bec9c8767483d77489.mp3",
+        "ruby": "hěn lěng",
+        "text": "很冷",
+        "english": "very cold"
+    },
+    {
+        "image": "5e9cd3bfc9c8767483d7748a.png",
+        "audio": "5e9cd3bfc9c8767483d7748a.mp3",
+        "ruby": "nuǎn huo",
+        "text": "暖和",
+        "english": "warm"
+    },
+    {
+        "image": "5e9cd3c0c9c8767483d7748b.png",
+        "audio": "5e9cd3c0c9c8767483d7748b.mp3",
+        "ruby": "liáng kuài",
+        "text": "凉快",
+        "english": "cool"
+    },
+    {
+        "image": "5e9cd3c1c9c8767483d7748c.png",
+        "audio": "5e9cd3c1c9c8767483d7748c.mp3",
+        "ruby": "cháo shī",
+        "text": "潮湿",
+        "english": "humid"
+    },
+    {
+        "image": "5e9cd3c2c9c8767483d7748d.png",
+        "audio": "5e9cd3c2c9c8767483d7748d.mp3",
+        "ruby": "lóng juǎn fēng",
+        "text": "龙卷风",
+        "english": "tornado"
+    }
+]

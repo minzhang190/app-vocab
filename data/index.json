@@ -95,6 +95,12 @@
     "id": "weather",
     "name": "Weather"
 }, {
+    "id": "weather1",
+    "name": "Weather 1"
+}, {
+    "id": "weather2",
+    "name": "Weather 2"
+}, {
     "id": "bedroom",
     "name": "Bedroom"
 }, {

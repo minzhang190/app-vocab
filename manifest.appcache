@@ -103,7 +103,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# ee9fe0b2d6029caba0d1c356d8ceefdf
+# ab798a55e4b65fc3b10dc984b5e8e9cf
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -422,6 +422,81 @@ data/20200419g4a/5e9ccac5d50a14ecf823ab98.mp3
 
 data/20200419g4a/5e8dad1da5b7500807899dc1.png
 # 1cd1997b4db59f6da72e99fb9436ad85
+
+data/weather2/5e9cd3b0c9c8767483d7747b.png
+# 8167235f9801a97eab384e8bcef4c024
+
+data/weather2/5e9cd3c1c9c8767483d7748c.mp3
+# 0260e29ac9cffd809fe6fa7ed8c2485a
+
+data/weather2/5e9cd3bec9c8767483d77489.png
+# 24ecd269c57464226e2e6b5aecf16771
+
+data/weather2/5e9cd3c2c9c8767483d7748d.png
+# 4e96cfca837f7ffb33c82750bae2b865
+
+data/weather2/5e9cd3bfc9c8767483d7748a.mp3
+# c008e836f6c935bceef4ece747d3b0a7
+
+data/weather2/5e9cd3b2c9c8767483d7747d.png
+# 27ed9f8720d53d8db5f9c661212284f3
+
+data/weather2/5e9cd3bec9c8767483d77489.mp3
+# a7bc2dbd2cca659da343e96314090eb0
+
+data/weather2/5e9cd3c1c9c8767483d7748c.png
+# 6ef3d0872c1e3865bf4d0a83095b7ea5
+
+data/weather2/5e8db08a26af9d56f020f496.mp3
+# e6c92efcb673e02e3ab19c4ee7555d43
+
+data/weather2/index.json
+# 74dd2e1d169aa089f485d8ceba9c7445
+
+data/weather2/5e8db08a26af9d56f020f494.mp3
+# b9020e3e0030cb9e9aa894ee604df3cb
+
+data/weather2/5e8db08a26af9d56f020f494.png
+# d18ccb6a48586c760017f0ce244e0b6a
+
+data/weather2/5e8db08a26af9d56f020f496.png
+# 989307099765a2ff1aeb7e07182a6a33
+
+data/weather2/5e9cd3bdc9c8767483d77488.mp3
+# 76ec56c573c9b346bd7ec54e2ac32a94
+
+data/weather2/5e9cd3c0c9c8767483d7748b.mp3
+# 8501cea913bec1900c4bf655005aab59
+
+data/weather2/5e9cd3b0c9c8767483d7747b.mp3
+# 7bd5e06938ec2aae6627b2379f7997aa
+
+data/weather2/5e9cd3b2c9c8767483d7747d.mp3
+# f2987f6a288fb6a6d7f7b7c105b580bc
+
+data/weather2/5e9cd3bdc9c8767483d77488.png
+# d47ef1d70b0138b8b5dff8e16414f3d4
+
+data/weather2/5e9cd3c2c9c8767483d7748d.mp3
+# 7dc614b86966dd313976d614e3de69c4
+
+data/weather2/5e9cd3bfc9c8767483d7748a.png
+# 5ad41f8e1df438366947f684034bce6b
+
+data/weather2/5e9cd3c0c9c8767483d7748b.png
+# e6989cbdf993409c4a81a8ceac759b08
+
+data/weather2/5e8db08a26af9d56f020f495.mp3
+# f126bf008d7e85373272d05a195ac8aa
+
+data/weather2/5e8db08a26af9d56f020f497.mp3
+# db1daedbe94ff23e2dea17b1f9b604e9
+
+data/weather2/5e8db08a26af9d56f020f495.png
+# d4c2ae8bd1b8bdb212762d9c8c8ff895
+
+data/weather2/5e8db08a26af9d56f020f497.png
+# ac1dda20e7700990ff648afcf9cc6cb2
 
 data/clothes3/32d5f4e754e30df60d17aec013f2df29.mp3
 # c43a1dd679b124d0816d617a9aaa2fba
@@ -1421,6 +1496,81 @@ data/clothing2/5e8dacb854bd1fe2183032e2.png
 
 data/clothing2/5e92e8bd8ef7c7826650ada8.mp3
 # 13fe647aa5826555f5be85476bb3c972
+
+data/weather1/5e9cd3b5c9c8767483d77480.png
+# a43df8abddb85663510945d1cde1e8dc
+
+data/weather1/5e9cd3b0c9c8767483d7747a.png
+# 4a40ffed4cc0e7e1227037ac9d302c58
+
+data/weather1/5e9cd3b1c9c8767483d7747c.png
+# a7689765ead2e8c99904d9263cb34401
+
+data/weather1/5e9cd3bac9c8767483d77484.mp3
+# f2904b446191e30b00bb5588dd8fc99a
+
+data/weather1/index.json
+# daf25563f29b9ca5456ca9d5f6e8c6da
+
+data/weather1/5e9cd3b1c9c8767483d7747c.mp3
+# 65f309caab9ca6bc9ca572d7987a58b5
+
+data/weather1/5e9cd3bac9c8767483d77484.png
+# 9d9758ac7e14f9b56338fcca18a30ba2
+
+data/weather1/5e9cd3bcc9c8767483d77487.mp3
+# 58e35fec5d16671271a73e1ba300b15f
+
+data/weather1/5e9cd3bcc9c8767483d77486.png
+# 0b1facd4e7622363bf32bd8118b7732e
+
+data/weather1/5e9cd3b5c9c8767483d77480.mp3
+# 364c244849de8736b409a04d2ecfa6d6
+
+data/weather1/5e9cd3bbc9c8767483d77485.mp3
+# 8718f37767be43e1715c2ed2200bf327
+
+data/weather1/5e9cd3b3c9c8767483d7747f.png
+# 20c754b59f87af4866948a9111387325
+
+data/weather1/5e9cd3b7c9c8767483d77482.mp3
+# 6526c7a53b5590c0e4fdf110a814c633
+
+data/weather1/5e9cd3b6c9c8767483d77481.png
+# 3ef6489e723e41a963dfa2dc97a9476b
+
+data/weather1/5e9cd3b9c9c8767483d77483.png
+# e4a24475dcdcef1df236155b143d0174
+
+data/weather1/5e9cd3bcc9c8767483d77486.mp3
+# 26458326f60a82bee5d05e6500f49f3c
+
+data/weather1/5e9cd3bbc9c8767483d77485.png
+# 7296633616c30be8f34d81ac9ae0fb4f
+
+data/weather1/5e9cd3b0c9c8767483d7747a.mp3
+# f83e814cb134f0443230a26ed95a4420
+
+data/weather1/5e9cd3b7c9c8767483d77482.png
+# 3ffa559ff21432968ebdda53b1b9ce86
+
+data/weather1/5e9cd3bcc9c8767483d77487.png
+# bbd7e3b854d05a1e761a1ec04fc9f5eb
+
+data/weather1/5e9cd3b9c9c8767483d77483.mp3
+# 109dbd6d9bb3b37e4ff31cefdf482153
+
+data/weather1/5e9cd3b3c9c8767483d7747f.mp3
+# 5a1c5889de311745b3a6d2b27de6d465
+
+data/weather1/5e9cd3b3c9c8767483d7747e.mp3
+# 48a1a3b93316659960eb1efd12e107d8
+
+data/weather1/5e9cd3b6c9c8767483d77481.mp3
+# 5ccf713a041d38e0312a99cbd76920db
+
+data/weather1/5e9cd3b3c9c8767483d7747e.png
+# 7cf29f2a8eccfa250ecca64a5f2195c5
 
 data/weather/rain.png
 # 0c7c822312bf163e4be2767d04f08ab9
