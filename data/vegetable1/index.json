@@ -1,0 +1,100 @@
+[
+    {
+        "image": "5e8dadcf3018c62731acd17a.png",
+        "audio": "5e8dadcf3018c62731acd17a.mp3",
+        "ruby": "shū cài",
+        "text": "蔬菜",
+        "english": "vegetable"
+    },
+    {
+        "image": "5e8dadcf3018c62731acd17c.png",
+        "audio": "5e8dadcf3018c62731acd17c.mp3",
+        "ruby": "xī hóng shì",
+        "text": "西红柿",
+        "english": "tomato"
+    },
+    {
+        "image": "5eadf9d98deb5b71a395fe03.png",
+        "audio": "5eadf9d98deb5b71a395fe03.mp3",
+        "ruby": "xī lán huā",
+        "text": "西兰花",
+        "english": "broccoli"
+    },
+    {
+        "image": "5e8dadcf3018c62731acd17b.png",
+        "audio": "5e8dadcf3018c62731acd17b.mp3",
+        "ruby": "hú luó bo",
+        "text": "胡萝卜",
+        "english": "carrot"
+    },
+    {
+        "image": "5eadf9db8deb5b71a395fe04.png",
+        "audio": "5eadf9db8deb5b71a395fe04.mp3",
+        "ruby": "qín cài",
+        "text": "芹菜",
+        "english": "celery"
+    },
+    {
+        "image": "5e8dadcf3018c62731acd17f.png",
+        "audio": "5e8dadcf3018c62731acd17f.mp3",
+        "ruby": "tǔ dòu",
+        "text": "土豆",
+        "english": "potato"
+    },
+    {
+        "image": "5eadf9dc8deb5b71a395fe05.png",
+        "audio": "5eadf9dc8deb5b71a395fe05.mp3",
+        "ruby": "yù mǐ",
+        "text": "玉米",
+        "english": "corn"
+    },
+    {
+        "image": "5eadf9dd8deb5b71a395fe06.png",
+        "audio": "5eadf9dd8deb5b71a395fe06.mp3",
+        "ruby": "huáng guā",
+        "text": "黄瓜",
+        "english": "cucumber"
+    },
+    {
+        "image": "5eadf9de8deb5b71a395fe07.png",
+        "audio": "5eadf9de8deb5b71a395fe07.mp3",
+        "ruby": "qié zi",
+        "text": "茄子",
+        "english": "eggplant"
+    },
+    {
+        "image": "5e8dadcf3018c62731acd17e.png",
+        "audio": "5e8dadcf3018c62731acd17e.mp3",
+        "ruby": "yáng cōng",
+        "text": "洋葱",
+        "english": "onion"
+    },
+    {
+        "image": "5eadf9e08deb5b71a395fe08.png",
+        "audio": "5eadf9e08deb5b71a395fe08.mp3",
+        "ruby": "hóng shǔ",
+        "text": "红薯",
+        "english": "sweet potato"
+    },
+    {
+        "image": "5eadf9e08deb5b71a395fe09.png",
+        "audio": "5eadf9e08deb5b71a395fe09.mp3",
+        "ruby": "qīng jiāo",
+        "text": "青椒",
+        "english": "green pepper"
+    },
+    {
+        "image": "5eadf9e18deb5b71a395fe0a.png",
+        "audio": "5eadf9e18deb5b71a395fe0a.mp3",
+        "ruby": "cǎi jiāo",
+        "text": "彩椒",
+        "english": "colored pepper"
+    },
+    {
+        "image": "5eadf9e28deb5b71a395fe0b.png",
+        "audio": "5eadf9e28deb5b71a395fe0b.mp3",
+        "ruby": "mó gū",
+        "text": "蘑菇",
+        "english": "mushroom"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "image": "5e8dadcf3018c62731acd17d.png",
+        "audio": "5e8dadcf3018c62731acd17d.mp3",
+        "ruby": "shēng cài",
+        "text": "生菜",
+        "english": "lettuce"
+    },
+    {
+        "image": "5eadf9e48deb5b71a395fe0c.png",
+        "audio": "5eadf9e48deb5b71a395fe0c.mp3",
+        "ruby": "cōng",
+        "text": "葱",
+        "english": "green onion"
+    },
+    {
+        "image": "5eadf9e58deb5b71a395fe0d.png",
+        "audio": "5eadf9e58deb5b71a395fe0d.mp3",
+        "ruby": "dòu jiǎo",
+        "text": "豆角",
+        "english": "green bean"
+    },
+    {
+        "image": "5eadf9e68deb5b71a395fe0e.png",
+        "audio": "5eadf9e68deb5b71a395fe0e.mp3",
+        "ruby": "nán guā",
+        "text": "南瓜",
+        "english": "pumpkin"
+    },
+    {
+        "image": "5eadf9e78deb5b71a395fe0f.png",
+        "audio": "5eadf9e78deb5b71a395fe0f.mp3",
+        "ruby": "bō cài",
+        "text": "菠菜",
+        "english": "spinach"
+    },
+    {
+        "image": "5e8bf946f6082885ff046ab6.png",
+        "audio": "5e8bf946f6082885ff046ab6.mp3",
+        "ruby": "niú yóu guǒ",
+        "text": "牛油果",
+        "english": "avocado"
+    },
+    {
+        "image": "5eadfb3dde049f5b7ba2f2ac.png",
+        "audio": "5eadfb3dde049f5b7ba2f2ac.mp3",
+        "ruby": "tián cài",
+        "text": "甜菜",
+        "english": "beet"
+    },
+    {
+        "image": "5eadfb3fde049f5b7ba2f2ad.png",
+        "audio": "5eadfb3fde049f5b7ba2f2ad.mp3",
+        "ruby": "juǎn xīn cài",
+        "text": "卷心菜",
+        "english": "cabbage"
+    },
+    {
+        "image": "5eadfb3fde049f5b7ba2f2ae.png",
+        "audio": "5eadfb3fde049f5b7ba2f2ae.mp3",
+        "ruby": "là jiāo",
+        "text": "辣椒",
+        "english": "chili"
+    },
+    {
+        "image": "5eadfb40de049f5b7ba2f2af.png",
+        "audio": "5eadfb40de049f5b7ba2f2af.mp3",
+        "ruby": "suàn",
+        "text": "蒜",
+        "english": "garlic"
+    },
+    {
+        "image": "5eadfb41de049f5b7ba2f2b0.png",
+        "audio": "5eadfb41de049f5b7ba2f2b0.mp3",
+        "ruby": "gǎn lǎn",
+        "text": "橄榄",
+        "english": "olive"
+    },
+    {
+        "image": "5eadfb42de049f5b7ba2f2b1.png",
+        "audio": "5eadfb42de049f5b7ba2f2b1.mp3",
+        "ruby": "qiū kuí",
+        "text": "秋葵",
+        "english": "okra"
+    },
+    {
+        "image": "5eadfcd6f9ba221b944caa98.png",
+        "audio": "5eadfcd6f9ba221b944caa98.mp3",
+        "ruby": "dòu zi",
+        "text": "豆子",
+        "english": "bean"
+    },
+    {
+        "image": "5eadfcd6f9ba221b944caa99.png",
+        "audio": "5eadfcd6f9ba221b944caa99.mp3",
+        "ruby": "yān huáng guā",
+        "text": "腌黄瓜",
+        "english": "pickle"
+    }
+]

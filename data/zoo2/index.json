@@ -1,0 +1,65 @@
+[
+    {
+        "image": "5eadf9408f2afc15aed00f3c.png",
+        "audio": "5eadf9408f2afc15aed00f3c.mp3",
+        "ruby": "láng",
+        "text": "狼",
+        "english": "wolf"
+    },
+    {
+        "image": "5eadf9418f2afc15aed00f3d.png",
+        "audio": "5eadf9418f2afc15aed00f3d.mp3",
+        "ruby": "hóu zi",
+        "text": "猴子",
+        "english": "monkey"
+    },
+    {
+        "image": "5eadf9428f2afc15aed00f3e.png",
+        "audio": "5eadf9428f2afc15aed00f3e.mp3",
+        "ruby": "è yú",
+        "text": "鳄鱼",
+        "english": "crocodile"
+    },
+    {
+        "image": "5eadf9438f2afc15aed00f3f.png",
+        "audio": "5eadf9438f2afc15aed00f3f.mp3",
+        "ruby": "kǒng què",
+        "text": "孔雀",
+        "english": "peacock"
+    },
+    {
+        "image": "5eadf9448f2afc15aed00f40.png",
+        "audio": "5eadf9448f2afc15aed00f40.mp3",
+        "ruby": "qǐ é",
+        "text": "企鹅",
+        "english": "penguin"
+    },
+    {
+        "image": "5e8dab8369c2516911ea4539.png",
+        "audio": "5e8dab8369c2516911ea4539.mp3",
+        "ruby": "wū guī",
+        "text": "乌龟",
+        "english": "turtle"
+    },
+    {
+        "image": "5e8dab8369c2516911ea452f.png",
+        "audio": "5e8dab8369c2516911ea452f.mp3",
+        "ruby": "niǎo",
+        "text": "鸟",
+        "english": "bird"
+    },
+    {
+        "image": "5eadf9468f2afc15aed00f41.png",
+        "audio": "5eadf9468f2afc15aed00f41.mp3",
+        "ruby": "lù",
+        "text": "鹿",
+        "english": "deer"
+    },
+    {
+        "image": "5e8dab8369c2516911ea453d.png",
+        "audio": "5e8dab8369c2516911ea453d.mp3",
+        "ruby": "hú li",
+        "text": "狐狸",
+        "english": "fox"
+    }
+]
