@@ -1,0 +1,100 @@
+[
+    {
+        "image": "5e8bf93cf6082885ff046aa8.png",
+        "audio": "5e8bf93cf6082885ff046aa8.mp3",
+        "ruby": "shuǐ guǒ",
+        "text": "水果",
+        "english": "fruit"
+    },
+    {
+        "image": "5e8bf93af6082885ff046aa6.png",
+        "audio": "5e8bf93af6082885ff046aa6.mp3",
+        "ruby": "píng guǒ",
+        "text": "苹果",
+        "english": "apple"
+    },
+    {
+        "image": "5e8bf93bf6082885ff046aa7.png",
+        "audio": "5e8bf93bf6082885ff046aa7.mp3",
+        "ruby": "lí",
+        "text": "梨",
+        "english": "pear"
+    },
+    {
+        "image": "5e8bf93cf6082885ff046aa9.png",
+        "audio": "5e8bf93cf6082885ff046aa9.mp3",
+        "ruby": "xiāng jiāo",
+        "text": "香蕉",
+        "english": "banana"
+    },
+    {
+        "image": "5e8bf947f6082885ff046ab8.png",
+        "audio": "5e8bf947f6082885ff046ab8.mp3",
+        "ruby": "lán méi",
+        "text": "蓝莓",
+        "english": "blueberry"
+    },
+    {
+        "image": "5e8bf946f6082885ff046ab7.png",
+        "audio": "5e8bf946f6082885ff046ab7.mp3",
+        "ruby": "hēi méi",
+        "text": "黑莓",
+        "english": "blackberry"
+    },
+    {
+        "image": "5e8bf944f6082885ff046ab4.png",
+        "audio": "5e8bf944f6082885ff046ab4.mp3",
+        "ruby": "yīng tao",
+        "text": "樱桃",
+        "english": "cherry"
+    },
+    {
+        "image": "5e8bf945f6082885ff046ab5.png",
+        "audio": "5e8bf945f6082885ff046ab5.mp3",
+        "ruby": "yē zi",
+        "text": "椰子",
+        "english": "coconut"
+    },
+    {
+        "image": "5e8bf93df6082885ff046aaa.png",
+        "audio": "5e8bf93df6082885ff046aaa.mp3",
+        "ruby": "pú tao",
+        "text": "葡萄",
+        "english": "grape"
+    },
+    {
+        "image": "5e8bf948f6082885ff046ab9.png",
+        "audio": "5e8bf948f6082885ff046ab9.mp3",
+        "ruby": "mí hóu táo",
+        "text": "猕猴桃",
+        "english": "kiwi"
+    },
+    {
+        "image": "5eb792e69d5b9f0e47f908b4.png",
+        "audio": "5eb792e69d5b9f0e47f908b4.mp3",
+        "ruby": "mì guā",
+        "text": "蜜瓜",
+        "english": "honeydew"
+    },
+    {
+        "image": "5eb792e69d5b9f0e47f908b5.png",
+        "audio": "5eb792e69d5b9f0e47f908b5.mp3",
+        "ruby": "hā mì guā",
+        "text": "哈密瓜",
+        "english": "cantaloupe"
+    },
+    {
+        "image": "5e8bf942f6082885ff046ab0.png",
+        "audio": "5e8bf942f6082885ff046ab0.mp3",
+        "ruby": "shí liu",
+        "text": "石榴",
+        "english": "pomegranate"
+    },
+    {
+        "image": "5eb792e69d5b9f0e47f908b6.png",
+        "audio": "5eb792e69d5b9f0e47f908b6.mp3",
+        "ruby": "fān shí liu",
+        "text": "番石榴",
+        "english": "guava"
+    }
+]

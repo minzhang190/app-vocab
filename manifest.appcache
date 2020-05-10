@@ -103,7 +103,7 @@ css/game1.css
 # 43a3ff17581dbcde94c25c78a9b41653
 
 data/index.json
-# 897fd24d594d4fbeede1358e0e8510ad
+# ba56b9de7a9c667d092d4e23fc92c075
 
 data/body2/e6134a29931ad14d89de9017a9213734.mp3
 # f31ff8c7fb571317dd4f9252c6279d0b
@@ -642,6 +642,93 @@ data/weather2/5e8db08a26af9d56f020f495.png
 data/weather2/5e8db08a26af9d56f020f497.png
 # ac1dda20e7700990ff648afcf9cc6cb2
 
+data/fruits5b/5e8bf93ef6082885ff046aac.mp3
+# 3429a838a94e5c383836d38b14dca995
+
+data/fruits5b/5e8bf940f6082885ff046aae.mp3
+# 0bc7b5aa2a9dc556c105046da10e7c23
+
+data/fruits5b/5eb792ea9d5b9f0e47f908bc.mp3
+# e9423690e406e1d8f7c8aa4542f366f4
+
+data/fruits5b/5e8bf944f6082885ff046ab3.png
+# e1c9070fb7296eb2a26aa459d9953ec9
+
+data/fruits5b/5eb792e99d5b9f0e47f908ba.mp3
+# d645f6479fbdac4346cad431107ae95b
+
+data/fruits5b/5eb792e99d5b9f0e47f908ba.png
+# 7e63cc6e249976fcd57057956021d5c5
+
+data/fruits5b/5e8bf943f6082885ff046ab2.mp3
+# 37584652f4eb0f9e2acb0ef3ba9780b7
+
+data/fruits5b/5e8bf93ff6082885ff046aad.mp3
+# 19721a6b65b375549029ef2db4286ff3
+
+data/fruits5b/index.json
+# fe8bc2f85b2a809ce62964244a9a4b1b
+
+data/fruits5b/5e8bf93ef6082885ff046aac.png
+# e952139f0a2344cd388ee5dc755eaa1b
+
+data/fruits5b/5eb792e79d5b9f0e47f908b7.png
+# 16d8fd16704f50e69e088467ff9ee206
+
+data/fruits5b/5eb792e79d5b9f0e47f908b8.png
+# 0e030dfdea3344ae40a890465c436e15
+
+data/fruits5b/5e8bf941f6082885ff046aaf.mp3
+# dac1378421f31968e152a48986a1656f
+
+data/fruits5b/5eb792e79d5b9f0e47f908b7.mp3
+# c84aed6a1dc236aab7d443ace5bd7b21
+
+data/fruits5b/5e8bf93ef6082885ff046aab.mp3
+# 0f761e5a6612d6fbee1cd5a00fb15296
+
+data/fruits5b/5eb792e89d5b9f0e47f908b9.mp3
+# e9aeddf4d91a03f801421e5289a9472a
+
+data/fruits5b/5eb792e89d5b9f0e47f908b9.png
+# 20dbd703e82a0ea118c15fd5e5d8ab60
+
+data/fruits5b/5e8bf942f6082885ff046ab1.mp3
+# 82120132f5977662b90b7f716f3b55fe
+
+data/fruits5b/5eb792ea9d5b9f0e47f908bb.mp3
+# 48178776f8fa574da58187365d222423
+
+data/fruits5b/5e8bf940f6082885ff046aae.png
+# 9d9ade1e481236a71ff5eacd5823bad7
+
+data/fruits5b/5e8bf942f6082885ff046ab1.png
+# 2f928c81df8f3b10d87161dae1446401
+
+data/fruits5b/5eb792e79d5b9f0e47f908b8.mp3
+# f9603e573686211891dedb52fac1cc66
+
+data/fruits5b/5e8bf944f6082885ff046ab3.mp3
+# 73a81d855428c49960cca0bd25d7756f
+
+data/fruits5b/5e8bf941f6082885ff046aaf.png
+# 812b642ae6e32e522ba0f7356e926a50
+
+data/fruits5b/5e8bf943f6082885ff046ab2.png
+# d8b4c76bd8d091a70f3bfa12516e92e0
+
+data/fruits5b/5eb792ea9d5b9f0e47f908bc.png
+# dbb58286c6b78f03329abe5489ed009f
+
+data/fruits5b/5e8bf93ff6082885ff046aad.png
+# 8320dc5b0935f0a29b2229a96ac9074e
+
+data/fruits5b/5eb792ea9d5b9f0e47f908bb.png
+# 7af82cd55c6e77187c33a5995018e565
+
+data/fruits5b/5e8bf93ef6082885ff046aab.png
+# 1c04d12a370639fff688f62c36545417
+
 data/clothes3/32d5f4e754e30df60d17aec013f2df29.mp3
 # c43a1dd679b124d0816d617a9aaa2fba
 
@@ -815,6 +902,63 @@ data/bedroom/1696a59602594c1a02f5f15066a9785a.mp3
 
 data/bedroom/chair_bedroom.png
 # e7c0b633c2b3dc2926d0410b716929a2
+
+data/seaanimals2/5eb79b1bb25bfd882d779b86.png
+# acc51d6ae5a9d8ac1a825efc844fc4ec
+
+data/seaanimals2/5eb791af14a1892be47ea8a6.mp3
+# a1687ce1d8a77142d15bb0a698f4b981
+
+data/seaanimals2/5eb79b1bb25bfd882d779b84.png
+# 4db50a9227d63a018fc6d2ba420f11de
+
+data/seaanimals2/5eb791ae14a1892be47ea8a4.png
+# 7bf0fa28807ab6ac3a75e546e28ce3b1
+
+data/seaanimals2/5eb79b1ab25bfd882d779b82.png
+# cf0b0bbee8756453d3fcbfbb88551887
+
+data/seaanimals2/5eb791ae14a1892be47ea8a3.mp3
+# c2d7def0d66af70f546f65ae546e1b46
+
+data/seaanimals2/5eb79b1ab25bfd882d779b83.mp3
+# ef68abf0276cdb255a319d14ad661ad8
+
+data/seaanimals2/5eb791af14a1892be47ea8a6.png
+# 16b9d97649367891a9a4a8c848f4b404
+
+data/seaanimals2/5eb79b1bb25bfd882d779b86.mp3
+# 7d869d3459575dc000a68e669e123293
+
+data/seaanimals2/index.json
+# 06688450d3a91976558e2496e3635803
+
+data/seaanimals2/5eb79b1bb25bfd882d779b84.mp3
+# 99d84fa6a5400a133dcf1c0a9895f95f
+
+data/seaanimals2/5eb79b1bb25bfd882d779b85.mp3
+# 7f70bb6a07096471700708b2caa8a626
+
+data/seaanimals2/5eb79b1ab25bfd882d779b82.mp3
+# 4dc1312fa1df5676c9c613a401adb032
+
+data/seaanimals2/5eb791ae14a1892be47ea8a4.mp3
+# 926bf2ff516843d6302728203bee62e4
+
+data/seaanimals2/5eb79b1bb25bfd882d779b85.png
+# b11d56a5163656ef217d6a3fd86dff61
+
+data/seaanimals2/5eb79b1ab25bfd882d779b83.png
+# 06171785495a33c7d1ea49af2d1b5f29
+
+data/seaanimals2/5eb791ae14a1892be47ea8a3.png
+# 4e9a0f027511dc93fa0b6c1775eb23fd
+
+data/seaanimals2/5eb791af14a1892be47ea8a5.png
+# 7c6d93a6f1bead5b0f293d0e709bcb63
+
+data/seaanimals2/5eb791af14a1892be47ea8a5.mp3
+# 64139fed36d0534052582b96d6488de3
 
 data/animals2/frog.png
 # 01bd1782b916d8617a2022ecab1188a7
@@ -2679,6 +2823,93 @@ data/vegetable1/5eadf9e08deb5b71a395fe09.png
 data/vegetable1/5eadf9dc8deb5b71a395fe05.png
 # f545020215f92c34abf89bfdaf590ca6
 
+data/fruits5a/5e8bf944f6082885ff046ab4.mp3
+# ae3c8d5cf3609143f582b95a462dad9b
+
+data/fruits5a/5e8bf93df6082885ff046aaa.png
+# bb3eeb63bab8ac14b5a635c3df122d38
+
+data/fruits5a/5e8bf945f6082885ff046ab5.mp3
+# 364ed757cd9625dc577873477d7b5b23
+
+data/fruits5a/5e8bf942f6082885ff046ab0.png
+# f763fdb98a347885a0fdb5086e960786
+
+data/fruits5a/5e8bf93bf6082885ff046aa7.mp3
+# 1b738ceb5534290bbe198d76dcda405f
+
+data/fruits5a/5e8bf93df6082885ff046aaa.mp3
+# 3ba968dafa7320b767fa306f1e1b9a9d
+
+data/fruits5a/5eb792e69d5b9f0e47f908b6.mp3
+# 0ddbb99069d729e3b727e88f88af6468
+
+data/fruits5a/5eb792e69d5b9f0e47f908b4.png
+# a9b5eca72ed8427f3bb1cea4c6f3c5a1
+
+data/fruits5a/5e8bf946f6082885ff046ab7.mp3
+# 6db9debf08bebc032ecfc065a1bed444
+
+data/fruits5a/5e8bf93af6082885ff046aa6.png
+# 362396483f3f3e54dc5c01add74fdbd3
+
+data/fruits5a/5eb792e69d5b9f0e47f908b4.mp3
+# 25cbb09c6f102e289d364cfe50d9c56e
+
+data/fruits5a/index.json
+# 5791129679b2a1185c1ac6110dc6936d
+
+data/fruits5a/5eb792e69d5b9f0e47f908b5.mp3
+# a9fa82180ce61eac8ae381945790797f
+
+data/fruits5a/5e8bf944f6082885ff046ab4.png
+# efd051456c9d08b5185c5b0635bdcfd7
+
+data/fruits5a/5e8bf948f6082885ff046ab9.mp3
+# 2fdf6742998f652e481bb04b5699f4ef
+
+data/fruits5a/5e8bf945f6082885ff046ab5.png
+# 2e50298a446045761a1b110410bcdef0
+
+data/fruits5a/5e8bf93bf6082885ff046aa7.png
+# 5b18fb40c3a3edde08aa47c798088e50
+
+data/fruits5a/5e8bf947f6082885ff046ab8.mp3
+# 0b6847d4739978104b9d79da07e0a875
+
+data/fruits5a/5e8bf947f6082885ff046ab8.png
+# f4f8a284f69ae7138d1eae601f4da22d
+
+data/fruits5a/5e8bf93cf6082885ff046aa8.png
+# c9b2ba269ea2b8c200b177a6a2edb30a
+
+data/fruits5a/5e8bf93cf6082885ff046aa9.png
+# 83c1cd24b8ea09a919290b8d641e7520
+
+data/fruits5a/5eb792e69d5b9f0e47f908b6.png
+# 6f838f8cef2e3eb08ffd1625a6718202
+
+data/fruits5a/5e8bf93cf6082885ff046aa9.mp3
+# 81af5fa5619a92826656eefaf2685288
+
+data/fruits5a/5e8bf946f6082885ff046ab7.png
+# eb7c2f6f027ffc2cdeec43d915145d56
+
+data/fruits5a/5eb792e69d5b9f0e47f908b5.png
+# ad7cdf9a71643897daeaf69096032bf1
+
+data/fruits5a/5e8bf948f6082885ff046ab9.png
+# 5cd1f4f21935733f18133d7e6e29021b
+
+data/fruits5a/5e8bf93cf6082885ff046aa8.mp3
+# 294f10def849bb31404cc120fa0f29fe
+
+data/fruits5a/5e8bf93af6082885ff046aa6.mp3
+# da6f6f6fc1a3773c5ee2ea3fe66dd3ac
+
+data/fruits5a/5e8bf942f6082885ff046ab0.mp3
+# e1d546b6afb602c1c7ed6d7ee125af80
+
 data/clsrmobj2/5e9cc6f283dd7905aa16c687.mp3
 # af16e3be077a93310ff7413d02528ce0
 
@@ -2981,6 +3212,63 @@ data/bathroom1/comb.png
 
 data/bathroom1/3021b83543b8c7c75e0f5630bfa48b9b.mp3
 # aa0501af786d2737ea3bef11e4c660c8
+
+data/seaanimals1/5eb791ae14a1892be47ea8a2.mp3
+# 12bb800534dd04c9c2e9b082ce49388d
+
+data/seaanimals1/5eb791aa14a1892be47ea89a.mp3
+# 6367588be6f8d307b6c13eb4d0cb5c3e
+
+data/seaanimals1/5eb791ad14a1892be47ea8a1.mp3
+# c2b40fc4cc5d3d5bf3978416e72184ed
+
+data/seaanimals1/5eb791aa14a1892be47ea89a.png
+# ad14c1a3cd6b46e1fca76ff1936def2e
+
+data/seaanimals1/5eb791ac14a1892be47ea89d.png
+# 14abcf5aceae44dc787d0802e8533278
+
+data/seaanimals1/5eb791ad14a1892be47ea8a1.png
+# faba3ca58d2e32614b69f58614b9a684
+
+data/seaanimals1/5eb791ad14a1892be47ea8a0.mp3
+# 568fa53078e2d30cbe1569885da703c3
+
+data/seaanimals1/5eb791ae14a1892be47ea8a2.png
+# b894a4734cc1c2f65a452d6f61f794e4
+
+data/seaanimals1/5eb791ab14a1892be47ea89c.png
+# 4843532c6f76d1008cd36b09c3b73ec8
+
+data/seaanimals1/5eb791ab14a1892be47ea89b.mp3
+# 18b4c0620b5a3a682938c7c4534f5f11
+
+data/seaanimals1/index.json
+# c5ed0e4940976e6958f6895a55ba1140
+
+data/seaanimals1/5eb791ac14a1892be47ea89e.mp3
+# 72403a62d0fb5286d10a706d45f703b7
+
+data/seaanimals1/5eb791ac14a1892be47ea89d.mp3
+# 86f81d48941396d205069921f0e1cf15
+
+data/seaanimals1/5eb791ab14a1892be47ea89b.png
+# 002a867101e87ad683a6cc258adf09c4
+
+data/seaanimals1/5eb791ad14a1892be47ea8a0.png
+# d9d37089bf7fea70a56c47a4a8e9364a
+
+data/seaanimals1/5eb791ac14a1892be47ea89f.png
+# 737207c6956c1565904bb039c2c95878
+
+data/seaanimals1/5eb791ac14a1892be47ea89e.png
+# 1fed4de822da4e612897a0374b14bd08
+
+data/seaanimals1/5eb791ab14a1892be47ea89c.mp3
+# bceaa382623ab39759fe1a04b94dc1b0
+
+data/seaanimals1/5eb791ac14a1892be47ea89f.mp3
+# fc8bcd1b0bb141c7657cd0c227728b25
 
 data/clothes2/54f7397f987fbc2a0d5ddf8953a1a705.mp3
 # 0b82f3e987e517e71699160597024a6a

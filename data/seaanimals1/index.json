@@ -1,0 +1,65 @@
+[
+    {
+        "image": "5eb791ab14a1892be47ea89b.png",
+        "audio": "5eb791ab14a1892be47ea89b.mp3",
+        "ruby": "yú",
+        "text": "鱼",
+        "english": "fish"
+    },
+    {
+        "image": "5eb791aa14a1892be47ea89a.png",
+        "audio": "5eb791aa14a1892be47ea89a.mp3",
+        "ruby": "hǎi tún",
+        "text": "海豚",
+        "english": "dolphin"
+    },
+    {
+        "image": "5eb791ab14a1892be47ea89c.png",
+        "audio": "5eb791ab14a1892be47ea89c.mp3",
+        "ruby": "shuǐ mǔ",
+        "text": "水母",
+        "english": "jellyfish"
+    },
+    {
+        "image": "5eb791ac14a1892be47ea89d.png",
+        "audio": "5eb791ac14a1892be47ea89d.mp3",
+        "ruby": "hǎi guī",
+        "text": "海龟",
+        "english": "sea turtle"
+    },
+    {
+        "image": "5eb791ac14a1892be47ea89e.png",
+        "audio": "5eb791ac14a1892be47ea89e.mp3",
+        "ruby": "jīng yú",
+        "text": "鲸鱼",
+        "english": "whale"
+    },
+    {
+        "image": "5eb791ac14a1892be47ea89f.png",
+        "audio": "5eb791ac14a1892be47ea89f.mp3",
+        "ruby": "shā yú",
+        "text": "鲨鱼",
+        "english": "shark"
+    },
+    {
+        "image": "5eb791ad14a1892be47ea8a0.png",
+        "audio": "5eb791ad14a1892be47ea8a0.mp3",
+        "ruby": "hǎi xīng",
+        "text": "海星",
+        "english": "starfish"
+    },
+    {
+        "image": "5eb791ad14a1892be47ea8a1.png",
+        "audio": "5eb791ad14a1892be47ea8a1.mp3",
+        "ruby": "hǎi mǎ",
+        "text": "海马",
+        "english": "sea horse"
+    },
+    {
+        "image": "5eb791ae14a1892be47ea8a2.png",
+        "audio": "5eb791ae14a1892be47ea8a2.mp3",
+        "ruby": "zhāng yú",
+        "text": "章鱼",
+        "english": "octopus"
+    }
+]

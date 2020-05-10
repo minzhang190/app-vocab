@@ -53,6 +53,12 @@
     "id": "animals4b",
     "name": "Animals B"
 }, {
+    "id": "seaanimals1",
+    "name": "Sea Animals 1"
+}, {
+    "id": "seaanimals2",
+    "name": "Sea Animals 2"
+}, {
     "id": "clothes1",
     "name": "Clothes 1"
 }, {
@@ -124,6 +130,12 @@
 }, {
     "id": "fruits4b",
     "name": "Fruits B"
+}, {
+    "id": "fruits5a",
+    "name": "Fruits 5A"
+}, {
+    "id": "fruits5b",
+    "name": "Fruits 5B"
 }, {
     "id": "kitchen",
     "name": "Kitchen"
