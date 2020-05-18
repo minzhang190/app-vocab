@@ -1,0 +1,72 @@
+[
+    {
+        "image": "5ec1d07a5f5aaa74c006597c.png",
+        "audio": "5ec1d07a5f5aaa74c006597c.mp3",
+        "ruby": "sān míng zhì",
+        "text": "三明治",
+        "english": "sandwich"
+    },
+    {
+        "image": "5ec1d07b5f5aaa74c006597d.png",
+        "audio": "5ec1d07b5f5aaa74c006597d.mp3",
+        "ruby": "pī sà bǐng",
+        "text": "披萨饼",
+        "english": "pizza"
+    },
+    {
+        "image": "5ec1d07b5f5aaa74c006597e.png",
+        "audio": "5ec1d07b5f5aaa74c006597e.mp3",
+        "ruby": "zhá shǔ tiáo",
+        "text": "炸薯条",
+        "english": "french fries"
+    },
+    {
+        "image": "5ec1d07c5f5aaa74c006597f.png",
+        "audio": "5ec1d07c5f5aaa74c006597f.mp3",
+        "ruby": "shā lā",
+        "text": "沙拉",
+        "english": "salad"
+    },
+    {
+        "image": "5ec1d07c5f5aaa74c0065980.png",
+        "audio": "5ec1d07c5f5aaa74c0065980.mp3",
+        "ruby": "tāng",
+        "text": "汤",
+        "english": "soup"
+    },
+    {
+        "image": "5ec1d07d5f5aaa74c0065981.png",
+        "audio": "5ec1d07d5f5aaa74c0065981.mp3",
+        "ruby": "rè gǒu",
+        "text": "热狗",
+        "english": "hot dog"
+    },
+    {
+        "image": "5ec1d07d5f5aaa74c0065982.png",
+        "audio": "5ec1d07d5f5aaa74c0065982.mp3",
+        "ruby": "hàn bǎo bāo",
+        "text": "汉堡包",
+        "english": "hamburger"
+    },
+    {
+        "image": "5ec1d07e5f5aaa74c0065983.png",
+        "audio": "5ec1d07e5f5aaa74c0065983.mp3",
+        "ruby": "zǎo cān",
+        "text": "早餐",
+        "english": "breakfast"
+    },
+    {
+        "image": "5ec1d07e5f5aaa74c0065984.png",
+        "audio": "5ec1d07e5f5aaa74c0065984.mp3",
+        "ruby": "wǔ cān",
+        "text": "午餐",
+        "english": "lunch"
+    },
+    {
+        "image": "5ec1d07f5f5aaa74c0065985.png",
+        "audio": "5ec1d07f5f5aaa74c0065985.mp3",
+        "ruby": "wǎn cān",
+        "text": "晚餐",
+        "english": "dinner"
+    }
+]

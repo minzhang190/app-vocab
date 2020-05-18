@@ -1,0 +1,86 @@
+[
+    {
+        "image": "5ec1d06b5f5aaa74c006596a.png",
+        "audio": "5ec1d06b5f5aaa74c006596a.mp3",
+        "ruby": "huáng yóu",
+        "text": "黄油",
+        "english": "butter"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39b4.png",
+        "audio": "5e8dad947aa6d6552ebb39b4.mp3",
+        "ruby": "nǎi lào",
+        "text": "奶酪",
+        "english": "cheese"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39b3.png",
+        "audio": "5e8dad947aa6d6552ebb39b3.mp3",
+        "ruby": "suān nǎi",
+        "text": "酸奶",
+        "english": "yogurt"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39ab.png",
+        "audio": "5e8dad947aa6d6552ebb39ab.mp3",
+        "ruby": "miàn bāo",
+        "text": "面包",
+        "english": "bread"
+    },
+    {
+        "image": "5ec1d0725f5aaa74c006596b.png",
+        "audio": "5ec1d0725f5aaa74c006596b.mp3",
+        "ruby": "yàn mài zhōu",
+        "text": "燕麦粥",
+        "english": "oatmeal"
+    },
+    {
+        "image": "5ec1d0725f5aaa74c006596c.png",
+        "audio": "5ec1d0725f5aaa74c006596c.mp3",
+        "ruby": "sōng bǐng",
+        "text": "松饼",
+        "english": "pancake"
+    },
+    {
+        "image": "5ec1d0725f5aaa74c006596d.png",
+        "audio": "5ec1d0725f5aaa74c006596d.mp3",
+        "ruby": "huá fū bǐng",
+        "text": "华夫饼",
+        "english": "waffle"
+    },
+    {
+        "image": "5ec1d0735f5aaa74c006596e.png",
+        "audio": "5ec1d0735f5aaa74c006596e.mp3",
+        "ruby": "miàn fěn",
+        "text": "面粉",
+        "english": "flour"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39ac.png",
+        "audio": "5e8dad947aa6d6552ebb39ac.mp3",
+        "ruby": "jī dàn",
+        "text": "鸡蛋",
+        "english": "egg"
+    },
+    {
+        "image": "5ec1d0745f5aaa74c006596f.png",
+        "audio": "5ec1d0745f5aaa74c006596f.mp3",
+        "ruby": "dàn huáng",
+        "text": "蛋黄",
+        "english": "egg yolk"
+    },
+    {
+        "image": "5ec1d0745f5aaa74c0065970.png",
+        "audio": "5ec1d0745f5aaa74c0065970.mp3",
+        "ruby": "dàn qīng",
+        "text": "蛋清",
+        "english": "egg white"
+    },
+    {
+        "image": "5ec1d0755f5aaa74c0065971.png",
+        "audio": "5ec1d0755f5aaa74c0065971.mp3",
+        "ruby": "shòu sī",
+        "text": "寿司",
+        "english": "sushi"
+    }
+]

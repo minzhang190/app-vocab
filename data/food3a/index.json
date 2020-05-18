@@ -1,0 +1,72 @@
+[
+    {
+        "image": "5ec1d0605f5aaa74c0065962.png",
+        "audio": "5ec1d0605f5aaa74c0065962.mp3",
+        "ruby": "shí wù",
+        "text": "食物",
+        "english": "food"
+    },
+    {
+        "image": "5ec1d0615f5aaa74c0065963.png",
+        "audio": "5ec1d0615f5aaa74c0065963.mp3",
+        "ruby": "zhōng cān",
+        "text": "中餐",
+        "english": "Chinese food"
+    },
+    {
+        "image": "5ec1d0615f5aaa74c0065964.png",
+        "audio": "5ec1d0615f5aaa74c0065964.mp3",
+        "ruby": "jiǎo zi",
+        "text": "饺子",
+        "english": "dumpling"
+    },
+    {
+        "image": "5ec1d0625f5aaa74c0065965.png",
+        "audio": "5ec1d0625f5aaa74c0065965.mp3",
+        "ruby": "miàn tiáo",
+        "text": "面条",
+        "english": "noodles"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39b1.png",
+        "audio": "5e8dad947aa6d6552ebb39b1.mp3",
+        "ruby": "mǐ fàn",
+        "text": "米饭",
+        "english": "rice"
+    },
+    {
+        "image": "5ec1d0635f5aaa74c0065966.png",
+        "audio": "5ec1d0635f5aaa74c0065966.mp3",
+        "ruby": "chǎo miàn",
+        "text": "炒面",
+        "english": "chow mein"
+    },
+    {
+        "image": "5ec1d0635f5aaa74c0065967.png",
+        "audio": "5ec1d0635f5aaa74c0065967.mp3",
+        "ruby": "chǎo cài",
+        "text": "炒菜",
+        "english": "stir-fried vegetables"
+    },
+    {
+        "image": "5ec1d0645f5aaa74c0065968.png",
+        "audio": "5ec1d0645f5aaa74c0065968.mp3",
+        "ruby": "diǎn xīn",
+        "text": "点心",
+        "english": "dim sum"
+    },
+    {
+        "image": "5e8dad947aa6d6552ebb39ad.png",
+        "audio": "5e8dad947aa6d6552ebb39ad.mp3",
+        "ruby": "niú nǎi",
+        "text": "牛奶",
+        "english": "milk"
+    },
+    {
+        "image": "5ec1d06a5f5aaa74c0065969.png",
+        "audio": "5ec1d06a5f5aaa74c0065969.mp3",
+        "ruby": "cǎo méi niú nǎi",
+        "text": "草莓牛奶",
+        "english": "strawberry milk"
+    }
+]
