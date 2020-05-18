@@ -1,0 +1,58 @@
+[
+    {
+        "image": "5e943b2b25c505681d0f1dee.png",
+        "audio": "5e943b2b25c505681d0f1dee.mp3",
+        "ruby": "shēn tǐ",
+        "text": "身体",
+        "english": "body"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430631.png",
+        "audio": "5e8dac932c02d5b61d430631.mp3",
+        "ruby": "tóu fà",
+        "text": "头发",
+        "english": "hair"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43063c.png",
+        "audio": "5e8dac932c02d5b61d43063c.mp3",
+        "ruby": "bó zi",
+        "text": "脖子",
+        "english": "neck"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43062e.png",
+        "audio": "5e8dac932c02d5b61d43062e.mp3",
+        "ruby": "tóu",
+        "text": "头",
+        "english": "head"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43062f.png",
+        "audio": "5e8dac932c02d5b61d43062f.mp3",
+        "ruby": "jiān bǎng",
+        "text": "肩膀",
+        "english": "shoulder"
+    },
+    {
+        "image": "5e943b2d25c505681d0f1def.png",
+        "audio": "5e943b2d25c505681d0f1def.mp3",
+        "ruby": "xiōng pú",
+        "text": "胸脯",
+        "english": "chest"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43062d.png",
+        "audio": "5e8dac932c02d5b61d43062d.mp3",
+        "ruby": "shǒu",
+        "text": "手",
+        "english": "hand"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430630.png",
+        "audio": "5e8dac932c02d5b61d430630.mp3",
+        "ruby": "shǒu zhǐ",
+        "text": "手指",
+        "english": "finger"
+    }
+]

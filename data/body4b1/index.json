@@ -1,0 +1,58 @@
+[
+    {
+        "image": "5e8dac932c02d5b61d43063a.png",
+        "audio": "5e8dac932c02d5b61d43063a.mp3",
+        "ruby": "yá chǐ",
+        "text": "牙齿",
+        "english": "teeth"
+    },
+    {
+        "image": "5e943b3125c505681d0f1df1.png",
+        "audio": "5e943b3125c505681d0f1df1.mp3",
+        "ruby": "zuǐ chún",
+        "text": "嘴唇",
+        "english": "lips"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430636.png",
+        "audio": "5e8dac932c02d5b61d430636.mp3",
+        "ruby": "zuǐ",
+        "text": "嘴",
+        "english": "mouth"
+    },
+    {
+        "image": "5e943b3225c505681d0f1df2.png",
+        "audio": "5e943b3225c505681d0f1df2.mp3",
+        "ruby": "xià bā",
+        "text": "下巴",
+        "english": "chin"
+    },
+    {
+        "image": "5e943b3225c505681d0f1df3.png",
+        "audio": "5e943b3225c505681d0f1df3.mp3",
+        "ruby": "qián é",
+        "text": "前额",
+        "english": "forehead"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430634.png",
+        "audio": "5e8dac932c02d5b61d430634.mp3",
+        "ruby": "yǎn jīng",
+        "text": "眼睛",
+        "english": "eyes"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430633.png",
+        "audio": "5e8dac932c02d5b61d430633.mp3",
+        "ruby": "ěr duō",
+        "text": "耳朵",
+        "english": "ear"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430635.png",
+        "audio": "5e8dac932c02d5b61d430635.mp3",
+        "ruby": "bí zi",
+        "text": "鼻子",
+        "english": "nose"
+    }
+]

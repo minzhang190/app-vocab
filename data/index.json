@@ -35,6 +35,18 @@
     "id": "body4b",
     "name": "Body B"
 }, {
+    "id": "body4a1",
+    "name": "Body A1"
+}, {
+    "id": "body4a2",
+    "name": "Body A2"
+}, {
+    "id": "body4b1",
+    "name": "Body B1"
+}, {
+    "id": "body4b2",
+    "name": "Body B2"
+}, {
     "id": "shapes",
     "name": "Shapes"
 }, {

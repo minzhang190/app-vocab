@@ -1,0 +1,51 @@
+[
+    {
+        "image": "5e943b2e25c505681d0f1df0.png",
+        "audio": "5e943b2e25c505681d0f1df0.mp3",
+        "ruby": "jiǎo",
+        "text": "脚",
+        "english": "foot"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43063d.png",
+        "audio": "5e8dac932c02d5b61d43063d.mp3",
+        "ruby": "jiǎo zhǐ",
+        "text": "脚趾",
+        "english": "toe"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43063b.png",
+        "audio": "5e8dac932c02d5b61d43063b.mp3",
+        "ruby": "tuǐ",
+        "text": "腿",
+        "english": "leg"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430638.png",
+        "audio": "5e8dac932c02d5b61d430638.mp3",
+        "ruby": "xī gài",
+        "text": "膝盖",
+        "english": "knee"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43062c.png",
+        "audio": "5e8dac932c02d5b61d43062c.mp3",
+        "ruby": "gē bo",
+        "text": "胳膊",
+        "english": "arm"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43063f.png",
+        "audio": "5e8dac932c02d5b61d43063f.mp3",
+        "ruby": "gē bo zhǒu",
+        "text": "胳膊肘",
+        "english": "elbow"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430639.png",
+        "audio": "5e8dac932c02d5b61d430639.mp3",
+        "ruby": "dù zi",
+        "text": "肚子",
+        "english": "stomach"
+    }
+]

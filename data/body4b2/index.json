@@ -1,0 +1,51 @@
+[
+    {
+        "image": "5e8dac932c02d5b61d430632.png",
+        "audio": "5e8dac932c02d5b61d430632.mp3",
+        "ruby": "liǎn",
+        "text": "脸",
+        "english": "face"
+    },
+    {
+        "image": "5e943b3425c505681d0f1df4.png",
+        "audio": "5e943b3425c505681d0f1df4.mp3",
+        "ruby": "jiǎo huái",
+        "text": "脚踝",
+        "english": "ankle"
+    },
+    {
+        "image": "5e943b3425c505681d0f1df5.png",
+        "audio": "5e943b3425c505681d0f1df5.mp3",
+        "ruby": "hóu lóng",
+        "text": "喉咙",
+        "english": "throat"
+    },
+    {
+        "image": "5e8dac932c02d5b61d430637.png",
+        "audio": "5e8dac932c02d5b61d430637.mp3",
+        "ruby": "méi máo",
+        "text": "眉毛",
+        "english": "eyebrow"
+    },
+    {
+        "image": "5e8dac932c02d5b61d43063e.png",
+        "audio": "5e8dac932c02d5b61d43063e.mp3",
+        "ruby": "hòu bèi",
+        "text": "后背",
+        "english": "back"
+    },
+    {
+        "image": "5e943b3625c505681d0f1df6.png",
+        "audio": "5e943b3625c505681d0f1df6.mp3",
+        "ruby": "shé tóu",
+        "text": "舌头",
+        "english": "tongue"
+    },
+    {
+        "image": "5e943b3625c505681d0f1df7.png",
+        "audio": "5e943b3625c505681d0f1df7.mp3",
+        "ruby": "gǔ tóu",
+        "text": "骨头",
+        "english": "bone"
+    }
+]
